@@ -1,0 +1,6 @@
+Validation,Status
+Missing Values,PASS
+Duplicate Detection,PASS
+Balance Sheet Validation,PASS
+Income Statement Validation,PASS (Investigated)
+Cash Flow Validation,PASS
