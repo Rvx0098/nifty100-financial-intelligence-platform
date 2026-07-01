@@ -414,7 +414,7 @@ This repository is not just code — it is a bridge between financial data and a
 
 **Rishit Verma**  
 GitHub: [https://github.com/Rvx0098](https://github.com/Rvx0098)  
-LinkedIn: _Add placeholder_
+LinkedIn: https://www.linkedin.com/in/rishitvermaa
 
 ---
 
