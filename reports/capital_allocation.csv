@@ -1,0 +1,1384 @@
+company_id,year,free_cash_flow,fcf_conversion,capex_intensity,cfo_quality_score,cfo_quality_label,capital_allocation_pattern
+ABB,Dec 2012,42.0,20.79,3.57,69.66,Moderate,Cash Accumulator
+ABB,Mar 2014,11.0,4.12,6.33,78.28,Moderate,Cash Accumulator
+ABB,Mar 2014,0.0,0.0,0.0,0.0,Accrual Risk,Mixed
+ABB,Mar 2015,28.0,8.97,8.17,93.89,Moderate,Cash Accumulator
+ABB,Mar 2015,-1899.0,-608.65,81.43,0.0,Accrual Risk,Growth Funded by Debt
+ABB,Mar 2016,172.0,47.12,2.95,97.65,Moderate,Cash Accumulator
+ABB,Mar 2016,728.0,199.45,31.22,100.0,High Quality,Cash Accumulator
+ABB,Mar 2017,152.0,38.19,5.34,100.0,High Quality,Cash Accumulator
+ABB,Mar 2017,459.0,115.33,59.59,100.0,High Quality,Cash Accumulator
+ABB,Mar 2018,-62.0,-11.81,6.52,38.15,Accrual Risk,Mixed
+ABB,Mar 2018,-994.0,-189.33,96.79,100.0,High Quality,Growth Funded by Debt
+ABB,Mar 2019,242.0,40.0,6.99,100.0,High Quality,Cash Accumulator
+ABB,Mar 2019,-459.0,-75.87,82.9,100.0,High Quality,Growth Funded by Debt
+ABB,Mar 2020,225.0,29.72,9.8,100.0,High Quality,Cash Accumulator
+ABB,Mar 2020,-206.0,-27.21,137.87,100.0,High Quality,Growth Funded by Debt
+ABB,Mar 2021,655.0,71.04,1.67,100.0,High Quality,Cash Accumulator
+ABB,Mar 2021,-225.0,-24.4,93.02,100.0,High Quality,Mixed
+ABB,Mar 2022,552.0,51.02,8.06,100.0,High Quality,Cash Accumulator
+ABB,Mar 2022,161.0,14.88,80.11,100.0,High Quality,Cash Accumulator
+ABB,Mar 2023,745.0,61.77,2.77,94.1,Moderate,Cash Accumulator
+ABB,Mar 2023,-922.0,-76.45,87.85,100.0,High Quality,Growth Funded by Debt
+ABB,Mar 2024,797.0,54.85,7.11,100.0,High Quality,Cash Accumulator
+ABB,Mar 2024,1095.0,75.36,84.51,100.0,High Quality,Cash Accumulator
+ABB,TTM,,,,100.0,Accrual Risk,Mixed
+ADANIENSOL,Mar 2014,0.0,,,0.0,Accrual Risk,Pre-Revenue
+ADANIENSOL,Mar 2015,-1899.0,-1880.2,1422.9,100.0,High Quality,Pre-Revenue
+ADANIENSOL,Mar 2016,728.0,37.78,37.19,100.0,High Quality,Cash Accumulator
+ADANIENSOL,Mar 2017,459.0,23.15,60.15,100.0,High Quality,Cash Accumulator
+ADANIENSOL,Mar 2018,-994.0,-35.17,80.93,100.0,High Quality,Growth Funded by Debt
+ADANIENSOL,Mar 2019,-459.0,-16.52,41.75,100.0,High Quality,Growth Funded by Debt
+ADANIENSOL,Mar 2020,-206.0,-4.84,49.43,100.0,High Quality,Growth Funded by Debt
+ADANIENSOL,Mar 2021,-225.0,-5.7,40.39,100.0,High Quality,Mixed
+ADANIENSOL,Mar 2022,161.0,3.83,34.96,100.0,High Quality,Cash Accumulator
+ADANIENSOL,Mar 2023,-922.0,-20.41,35.35,100.0,High Quality,Growth Funded by Debt
+ADANIENSOL,Mar 2024,1095.0,19.17,29.76,100.0,High Quality,Cash Accumulator
+ADANIENSOL,TTM,,,,100.0,Accrual Risk,Mixed
+ADANIENT,Mar 2013,-7124.0,-118.32,31.89,100.0,High Quality,Growth Funded by Debt
+ADANIENT,Mar 2014,221.0,2.36,14.57,100.0,High Quality,Cash Accumulator
+ADANIENT,Mar 2015,-2933.0,-23.56,17.78,100.0,High Quality,Growth Funded by Debt
+ADANIENT,Mar 2016,3287.0,195.19,5.37,100.0,High Quality,Cash Accumulator
+ADANIENT,Mar 2017,-686.0,-36.07,4.0,83.68,Moderate,Growth Funded by Debt
+ADANIENT,Mar 2018,-4707.0,-230.96,21.29,100.0,High Quality,Growth Funded by Debt
+ADANIENT,Mar 2019,5723.0,290.66,6.16,100.0,High Quality,Reinvestor
+ADANIENT,Mar 2020,1372.0,59.81,2.49,100.0,High Quality,Cash Accumulator
+ADANIENT,Mar 2021,-4568.0,-182.28,21.78,100.0,High Quality,Growth Funded by Debt
+ADANIENT,Mar 2022,-15656.0,-421.54,24.55,100.0,High Quality,Growth Funded by Debt
+ADANIENT,Mar 2023,2167.0,24.57,12.12,100.0,High Quality,Cash Accumulator
+ADANIENT,Mar 2024,-8455.0,-74.32,19.46,100.0,High Quality,Growth Funded by Debt
+ADANIENT,TTM,,,,100.0,Accrual Risk,Mixed
+ADANIGREEN,Mar 2017,-1483.0,-367.99,301.0,0.0,Accrual Risk,Pre-Revenue
+ADANIGREEN,Mar 2018,-3779.0,-448.28,299.19,0.0,Accrual Risk,Pre-Revenue
+ADANIGREEN,Mar 2019,-1041.0,-68.22,129.54,0.0,Accrual Risk,Pre-Revenue
+ADANIGREEN,Mar 2020,-1778.0,-122.62,146.84,0.0,Accrual Risk,Pre-Revenue
+ADANIGREEN,Mar 2021,-7536.0,-336.28,292.48,100.0,High Quality,Growth Funded by Debt
+ADANIGREEN,Mar 2022,-15603.0,-444.28,364.89,100.0,High Quality,Growth Funded by Debt
+ADANIGREEN,Mar 2023,3408.0,68.57,49.6,100.0,High Quality,Cash Accumulator
+ADANIGREEN,Mar 2024,-13347.0,-182.39,228.42,100.0,High Quality,Growth Funded by Debt
+ADANIGREEN,TTM,,,,100.0,Accrual Risk,Mixed
+ADANIPORTS,Mar 2013,-3757.0,-157.72,143.58,84.14,Moderate,Growth Funded by Debt
+ADANIPORTS,Mar 2014,-1378.0,-47.21,51.97,65.02,Moderate,Growth Funded by Debt
+ADANIPORTS,Mar 2015,572.0,14.66,40.39,100.0,High Quality,Cash Accumulator
+ADANIPORTS,Mar 2016,-1772.0,-38.72,58.42,83.37,Moderate,Growth Funded by Debt
+ADANIPORTS,Mar 2017,1434.0,26.47,31.15,100.0,High Quality,Cash Accumulator
+ADANIPORTS,Mar 2018,1762.0,24.62,33.97,100.0,High Quality,Cash Accumulator
+ADANIPORTS,Mar 2019,1661.0,25.18,39.98,100.0,High Quality,Shareholder Returns
+ADANIPORTS,Mar 2020,6653.0,111.87,6.31,100.0,High Quality,Cash Accumulator
+ADANIPORTS,Mar 2021,-6508.0,-74.91,112.06,100.0,High Quality,Growth Funded by Debt
+ADANIPORTS,Mar 2022,4927.0,51.71,32.09,100.0,High Quality,Cash Accumulator
+ADANIPORTS,Mar 2023,-4816.0,-43.99,80.16,100.0,High Quality,Mixed
+ADANIPORTS,Mar 2024,8250.0,52.92,25.34,100.0,High Quality,Cash Accumulator
+ADANIPORTS,TTM,,,,100.0,Accrual Risk,Mixed
+ADANIPORTS,Mar 2013,-3757.0,-157.72,143.58,84.14,Moderate,Growth Funded by Debt
+ADANIPORTS,Mar 2014,-1378.0,-47.21,51.97,65.02,Moderate,Growth Funded by Debt
+ADANIPORTS,Mar 2015,572.0,14.66,40.39,100.0,High Quality,Cash Accumulator
+ADANIPORTS,Mar 2016,-1772.0,-38.72,58.42,83.37,Moderate,Growth Funded by Debt
+ADANIPORTS,Mar 2017,1434.0,26.47,31.15,100.0,High Quality,Cash Accumulator
+ADANIPORTS,Mar 2018,1762.0,24.62,33.97,100.0,High Quality,Cash Accumulator
+ADANIPORTS,Mar 2019,1661.0,25.18,39.98,100.0,High Quality,Shareholder Returns
+ADANIPORTS,Mar 2020,6653.0,111.87,6.31,100.0,High Quality,Cash Accumulator
+ADANIPORTS,Mar 2021,-6508.0,-74.91,112.06,100.0,High Quality,Growth Funded by Debt
+ADANIPORTS,Mar 2022,4927.0,51.71,32.09,100.0,High Quality,Cash Accumulator
+ADANIPORTS,Mar 2023,-4816.0,-43.99,80.16,100.0,High Quality,Mixed
+ADANIPORTS,Mar 2024,8250.0,52.92,25.34,100.0,High Quality,Cash Accumulator
+ADANIPORTS,TTM,,,,100.0,Accrual Risk,Mixed
+ADANIPOWER,Mar 2013,-1063.0,-110.73,60.73,0.0,Accrual Risk,Pre-Revenue
+ADANIPOWER,Mar 2014,-1462.0,-31.83,30.66,0.0,Accrual Risk,Pre-Revenue
+ADANIPOWER,Mar 2015,1087.0,23.24,25.35,0.0,Accrual Risk,Pre-Revenue
+ADANIPOWER,Mar 2016,2565.0,29.14,10.61,100.0,High Quality,Cash Accumulator
+ADANIPOWER,Mar 2017,3513.0,58.75,5.36,0.0,Accrual Risk,Pre-Revenue
+ADANIPOWER,Mar 2018,4581.0,84.27,2.56,0.0,Accrual Risk,Pre-Revenue
+ADANIPOWER,Mar 2019,4626.0,92.84,4.12,0.0,Accrual Risk,Pre-Revenue
+ADANIPOWER,Mar 2020,3294.0,57.45,8.7,0.0,Accrual Risk,Pre-Revenue
+ADANIPOWER,Mar 2021,4826.0,55.55,8.34,100.0,High Quality,Cash Accumulator
+ADANIPOWER,Mar 2022,11007.0,111.4,2.79,100.0,High Quality,Reinvestor
+ADANIPOWER,Mar 2023,9976.0,98.81,3.98,78.6,Moderate,Reinvestor
+ADANIPOWER,Mar 2024,17651.0,96.83,6.91,68.03,Moderate,Reinvestor
+ADANIPOWER,TTM,,,,100.0,Accrual Risk,Mixed
+AMBUJACEM,Dec 2012,1472.0,59.52,3.98,100.0,High Quality,Cash Accumulator
+AMBUJACEM,Dec 2013,771.0,46.2,5.41,99.14,Moderate,Cash Accumulator
+AMBUJACEM,Dec 2014,1219.0,63.03,4.58,100.0,High Quality,Cash Accumulator
+AMBUJACEM,Dec 2015,1474.0,95.59,0.88,100.0,High Quality,Cash Accumulator
+AMBUJACEM,Dec 2016,-1355.0,-42.6,20.73,100.0,High Quality,Mixed
+AMBUJACEM,Dec 2017,2678.0,69.41,3.13,100.0,High Quality,Cash Accumulator
+AMBUJACEM,Dec 2018,938.0,23.39,2.94,57.28,Moderate,Cash Accumulator
+AMBUJACEM,Dec 2019,3548.0,77.18,4.39,100.0,High Quality,Cash Accumulator
+AMBUJACEM,Dec 2020,3515.0,70.22,5.37,100.0,High Quality,Cash Accumulator
+AMBUJACEM,Dec 2021,3302.0,53.17,6.93,100.0,High Quality,Cash Accumulator
+AMBUJACEM,Mar 2023 15,,,,100.0,Accrual Risk,Mixed
+AMBUJACEM,Mar 2024,-3295.0,-51.48,26.96,100.0,High Quality,Growth Funded by Debt
+AMBUJACEM,TTM,,,,100.0,Accrual Risk,Mixed
+APOLLOHOSP,Mar 2013,-290.0,-47.39,19.45,100.0,High Quality,Growth Funded by Debt
+APOLLOHOSP,Mar 2014,17.0,2.51,8.17,100.0,High Quality,Cash Accumulator
+APOLLOHOSP,Mar 2015,-289.0,-39.21,14.8,100.0,High Quality,Growth Funded by Debt
+APOLLOHOSP,Mar 2016,-291.0,-42.54,14.44,100.0,High Quality,Growth Funded by Debt
+APOLLOHOSP,Mar 2017,-529.0,-72.07,15.88,100.0,High Quality,Growth Funded by Debt
+APOLLOHOSP,Mar 2018,132.0,16.48,4.91,100.0,High Quality,Cash Accumulator
+APOLLOHOSP,Mar 2019,194.0,18.13,7.39,100.0,High Quality,Cash Accumulator
+APOLLOHOSP,Mar 2020,1004.0,63.1,2.57,100.0,High Quality,Cash Accumulator
+APOLLOHOSP,Mar 2021,385.0,33.77,8.33,100.0,High Quality,Cash Accumulator
+APOLLOHOSP,Mar 2022,949.0,43.35,5.09,100.0,High Quality,Cash Accumulator
+APOLLOHOSP,Mar 2023,520.0,25.18,5.16,100.0,High Quality,Cash Accumulator
+APOLLOHOSP,Mar 2024,383.0,16.0,8.06,100.0,High Quality,Cash Accumulator
+APOLLOHOSP,TTM,,,,100.0,Accrual Risk,Mixed
+ASIANPAINT,Mar 2013,724.0,41.68,4.41,100.0,High Quality,Cash Accumulator
+ASIANPAINT,Mar 2013,724.0,41.68,4.41,100.0,High Quality,Cash Accumulator
+ASIANPAINT,Mar 2014,816.0,40.72,4.8,100.0,High Quality,Cash Accumulator
+ASIANPAINT,Mar 2014,816.0,40.72,4.8,100.0,High Quality,Cash Accumulator
+ASIANPAINT,Mar 2015,723.0,32.23,3.42,83.25,Moderate,Cash Accumulator
+ASIANPAINT,Mar 2015,723.0,32.23,3.42,83.25,Moderate,Cash Accumulator
+ASIANPAINT,Mar 2016,1377.0,50.53,6.07,100.0,High Quality,Cash Accumulator
+ASIANPAINT,Mar 2016,1377.0,50.53,6.07,100.0,High Quality,Cash Accumulator
+ASIANPAINT,Mar 2017,846.0,28.26,4.52,75.74,Moderate,Cash Accumulator
+ASIANPAINT,Mar 2017,846.0,28.26,4.52,75.74,Moderate,Cash Accumulator
+ASIANPAINT,Mar 2018,557.0,17.38,9.25,100.0,High Quality,Cash Accumulator
+ASIANPAINT,Mar 2018,557.0,17.38,9.25,100.0,High Quality,Cash Accumulator
+ASIANPAINT,Mar 2019,1552.0,41.22,4.77,100.0,High Quality,Cash Accumulator
+ASIANPAINT,Mar 2019,1552.0,41.22,4.77,100.0,High Quality,Cash Accumulator
+ASIANPAINT,Mar 2020,2520.0,60.62,2.56,100.0,High Quality,Cash Accumulator
+ASIANPAINT,Mar 2020,2520.0,60.62,2.56,100.0,High Quality,Cash Accumulator
+ASIANPAINT,Mar 2021,3142.0,64.7,2.49,100.0,High Quality,Cash Accumulator
+ASIANPAINT,Mar 2021,3142.0,64.7,2.49,100.0,High Quality,Cash Accumulator
+ASIANPAINT,Mar 2022,669.0,13.93,1.09,31.96,Accrual Risk,Cash Accumulator
+ASIANPAINT,Mar 2022,669.0,13.93,1.09,31.96,Accrual Risk,Cash Accumulator
+ASIANPAINT,Mar 2023,2911.0,46.5,3.72,99.95,Moderate,Cash Accumulator
+ASIANPAINT,Mar 2023,2911.0,46.5,3.72,99.95,Moderate,Cash Accumulator
+ASIANPAINT,Mar 2024,3556.0,46.88,7.18,100.0,High Quality,Cash Accumulator
+ASIANPAINT,Mar 2024,3556.0,46.88,7.18,100.0,High Quality,Cash Accumulator
+ASIANPAINT,TTM,,,,100.0,Accrual Risk,Mixed
+ATGL,Mar 2018,,,,100.0,Accrual Risk,Mixed
+ATGL,Mar 2019,,,,100.0,Accrual Risk,Mixed
+ATGL,Mar 2020,,,,100.0,Accrual Risk,Mixed
+ATGL,Mar 2021,,,,100.0,Accrual Risk,Mixed
+ATGL,Mar 2022,,,,100.0,Accrual Risk,Mixed
+ATGL,Mar 2023,,,,100.0,Accrual Risk,Mixed
+ATGL,Mar 2024,,,,100.0,Accrual Risk,Mixed
+ATGL,TTM,,,,100.0,Accrual Risk,Mixed
+BAJAJ-AUTO,Mar 2013,824.0,22.54,6.96,70.79,Moderate,Cash Accumulator
+BAJAJ-AUTO,Mar 2013,824.0,22.54,6.96,70.79,Moderate,Cash Accumulator
+BAJAJ-AUTO,Mar 2014,1430.0,34.35,10.29,100.0,High Quality,Cash Accumulator
+BAJAJ-AUTO,Mar 2014,1430.0,34.35,10.29,100.0,High Quality,Cash Accumulator
+BAJAJ-AUTO,Mar 2015,1734.0,42.01,1.76,69.86,Moderate,Cash Accumulator
+BAJAJ-AUTO,Mar 2015,1734.0,42.01,1.76,69.86,Moderate,Cash Accumulator
+BAJAJ-AUTO,Mar 2016,3622.0,75.57,0.3,90.86,Moderate,Cash Accumulator
+BAJAJ-AUTO,Mar 2016,3622.0,75.57,0.3,90.86,Moderate,Cash Accumulator
+BAJAJ-AUTO,Mar 2017,-343.0,-7.74,16.59,80.09,Moderate,Mixed
+BAJAJ-AUTO,Mar 2017,-343.0,-7.74,16.59,80.09,Moderate,Mixed
+BAJAJ-AUTO,Mar 2018,2374.0,48.99,7.75,100.0,High Quality,Cash Accumulator
+BAJAJ-AUTO,Mar 2018,2374.0,48.99,7.75,100.0,High Quality,Cash Accumulator
+BAJAJ-AUTO,Mar 2019,2214.0,42.59,0.9,50.47,Moderate,Cash Accumulator
+BAJAJ-AUTO,Mar 2019,2214.0,42.59,0.9,50.47,Moderate,Cash Accumulator
+BAJAJ-AUTO,Mar 2020,5616.0,109.92,5.9,73.87,Moderate,Reinvestor
+BAJAJ-AUTO,Mar 2020,5616.0,109.92,5.9,73.87,Moderate,Reinvestor
+BAJAJ-AUTO,Mar 2021,251.0,5.08,10.34,64.24,Moderate,Cash Accumulator
+BAJAJ-AUTO,Mar 2021,251.0,5.08,10.34,64.24,Moderate,Cash Accumulator
+BAJAJ-AUTO,Mar 2022,4473.0,85.05,0.83,68.07,Moderate,Reinvestor
+BAJAJ-AUTO,Mar 2022,4473.0,85.05,0.83,68.07,Moderate,Reinvestor
+BAJAJ-AUTO,Mar 2023,6488.0,100.36,3.32,87.08,Moderate,Reinvestor
+BAJAJ-AUTO,Mar 2023,6488.0,100.36,3.32,87.08,Moderate,Reinvestor
+BAJAJ-AUTO,Mar 2024,6486.0,74.0,0.16,85.08,Moderate,Cash Accumulator
+BAJAJ-AUTO,Mar 2024,6486.0,74.0,0.16,85.08,Moderate,Cash Accumulator
+BAJAJ-AUTO,TTM,,,,100.0,Accrual Risk,Mixed
+AXISBANK,Mar 2013,-8366.0,-100.64,40.24,49.68,Accrual Risk,Growth Funded by Debt
+AXISBANK,Mar 2014,298.0,3.09,46.23,100.0,High Quality,Shareholder Returns
+AXISBANK,Mar 2015,-23134.0,-207.91,22.47,0.0,Accrual Risk,Growth Funded by Debt
+AXISBANK,Mar 2016,-25284.0,-189.15,22.47,0.0,Accrual Risk,Liquidating Assets
+AXISBANK,Mar 2017,19751.0,82.96,27.97,100.0,High Quality,Cash Accumulator
+AXISBANK,Mar 2018,-48397.0,-167.49,21.86,0.0,Accrual Risk,Growth Funded by Debt
+AXISBANK,Mar 2019,18451.0,67.95,33.96,100.0,High Quality,Shareholder Returns
+AXISBANK,Mar 2020,20931.0,59.69,15.14,100.0,High Quality,Shareholder Returns
+AXISBANK,Mar 2021,-41655.0,-131.2,85.7,100.0,High Quality,Growth Funded by Debt
+AXISBANK,Mar 2022,1025.0,3.42,40.24,100.0,High Quality,Shareholder Returns
+AXISBANK,Mar 2023,-10276.0,-35.33,37.99,100.0,High Quality,Growth Funded by Debt
+AXISBANK,Mar 2024,-14556.0,-38.36,8.23,0.0,Accrual Risk,Growth Funded by Debt
+AXISBANK,TTM,,,,100.0,Accrual Risk,Mixed
+BAJAJFINSV,Mar 2013,-3969.0,-100.97,36.66,0.0,Accrual Risk,Liquidating Assets
+BAJAJFINSV,Mar 2014,-6043.0,-134.56,62.49,0.0,Accrual Risk,Liquidating Assets
+BAJAJFINSV,Mar 2015,-7022.0,-127.42,32.72,0.0,Accrual Risk,Liquidating Assets
+BAJAJFINSV,Mar 2016,-10681.0,-158.5,4.32,0.0,Accrual Risk,Growth Funded by Debt
+BAJAJFINSV,Mar 2017,-10771.0,-123.62,0.62,0.0,Accrual Risk,Liquidating Assets
+BAJAJFINSV,Mar 2018,-20502.0,-190.04,2.81,0.0,Accrual Risk,Growth Funded by Debt
+BAJAJFINSV,Mar 2019,-33979.0,-225.97,16.2,0.0,Accrual Risk,Growth Funded by Debt
+BAJAJFINSV,Mar 2020,-33317.0,-182.48,18.3,0.0,Accrual Risk,Growth Funded by Debt
+BAJAJFINSV,Mar 2021,863.0,4.39,6.08,61.72,Moderate,Shareholder Returns
+BAJAJFINSV,Mar 2022,-32225.0,-150.2,2.11,0.0,Accrual Risk,Liquidating Assets
+BAJAJFINSV,Mar 2023,-53425.0,-178.87,16.99,0.0,Accrual Risk,Growth Funded by Debt
+BAJAJFINSV,Mar 2024,-79634.0,-194.77,9.93,0.0,Accrual Risk,Growth Funded by Debt
+BAJAJFINSV,TTM,,,,100.0,Accrual Risk,Mixed
+BAJAJHLDNG,Mar 2013,104.0,32.3,109.5,25.48,Accrual Risk,Cash Accumulator
+BAJAJHLDNG,Mar 2014,353.0,88.25,122.7,43.86,Accrual Risk,Cash Accumulator
+BAJAJHLDNG,Mar 2015,332.0,68.6,88.55,39.23,Accrual Risk,Cash Accumulator
+BAJAJHLDNG,Mar 2016,2166.0,504.9,216.81,50.64,Moderate,Reinvestor
+BAJAJHLDNG,Mar 2017,-1295.0,-206.21,44.18,0.0,Accrual Risk,Mixed
+BAJAJHLDNG,Mar 2018,508.0,143.1,267.38,61.43,Moderate,Cash Accumulator
+BAJAJHLDNG,Mar 2019,465.0,134.01,37.82,20.6,Accrual Risk,Cash Accumulator
+BAJAJHLDNG,Mar 2020,1120.0,372.09,183.91,62.34,Moderate,Cash Accumulator
+BAJAJHLDNG,Mar 2021,-36.0,-10.23,67.4,7.44,Accrual Risk,Mixed
+BAJAJHLDNG,Mar 2022,1459.0,397.55,31.2,39.02,Accrual Risk,Cash Accumulator
+BAJAJHLDNG,Mar 2023,1591.0,418.68,26.25,34.94,Accrual Risk,Cash Accumulator
+BAJAJHLDNG,Mar 2024,1469.0,94.05,27.73,26.35,Accrual Risk,Cash Accumulator
+BAJAJHLDNG,TTM,,,,100.0,Accrual Risk,Mixed
+BAJFINANCE,Mar 2015,-7424.0,-423.74,6.68,0.0,Accrual Risk,Growth Funded by Debt
+BAJFINANCE,Mar 2016,-10557.0,-448.47,9.41,0.0,Accrual Risk,Growth Funded by Debt
+BAJFINANCE,Mar 2017,-13486.0,-414.95,30.56,0.0,Accrual Risk,Growth Funded by Debt
+BAJFINANCE,Mar 2018,-19491.0,-473.66,8.43,0.0,Accrual Risk,Liquidating Assets
+BAJFINANCE,Mar 2019,-34441.0,-631.48,29.1,0.0,Accrual Risk,Growth Funded by Debt
+BAJFINANCE,Mar 2020,-33170.0,-362.16,33.21,0.0,Accrual Risk,Growth Funded by Debt
+BAJFINANCE,Mar 2021,-1236.0,-11.4,1.61,0.0,Accrual Risk,Growth Funded by Debt
+BAJFINANCE,Mar 2022,-30743.0,-258.78,20.06,0.0,Accrual Risk,Liquidating Assets
+BAJFINANCE,Mar 2023,-52506.0,-413.66,25.1,0.0,Accrual Risk,Growth Funded by Debt
+BAJFINANCE,Mar 2024,-79931.0,-496.5,13.04,0.0,Accrual Risk,Growth Funded by Debt
+BAJFINANCE,TTM,,,,100.0,Accrual Risk,Mixed
+BANKBARODA,Mar 2013,22682.0,207.14,1.41,100.0,High Quality,Cash Accumulator
+BANKBARODA,Mar 2014,41503.0,344.45,1.8,100.0,High Quality,Shareholder Returns
+BANKBARODA,Mar 2015,17282.0,128.34,1.24,100.0,High Quality,Cash Accumulator
+BANKBARODA,Mar 2016,-14016.0,-55.2,8.74,100.0,High Quality,Pre-Revenue
+BANKBARODA,Mar 2017,17314.0,89.94,1.24,100.0,High Quality,Cash Accumulator
+BANKBARODA,Mar 2018,-60106.0,-230.35,0.9,100.0,High Quality,Pre-Revenue
+BANKBARODA,Mar 2019,-3986.0,-15.44,4.8,0.0,Accrual Risk,Growth Funded by Debt
+BANKBARODA,Mar 2020,18392.0,45.32,0.18,100.0,High Quality,Shareholder Returns
+BANKBARODA,Mar 2021,-1358.0,-3.57,0.63,0.0,Accrual Risk,Mixed
+BANKBARODA,Mar 2022,2565.0,6.84,4.97,78.28,Moderate,Cash Accumulator
+BANKBARODA,Mar 2023,-22450.0,-58.72,1.16,0.0,Accrual Risk,Mixed
+BANKBARODA,Mar 2024,-7559.0,-17.03,1.09,0.0,Accrual Risk,Growth Funded by Debt
+BANKBARODA,TTM,,,,100.0,Accrual Risk,Mixed
+BHARTIARTL,Mar 2013,3932.0,17.13,24.27,100.0,High Quality,Cash Accumulator
+BHARTIARTL,Mar 2014,1052.0,3.97,29.33,100.0,High Quality,Shareholder Returns
+BHARTIARTL,Mar 2015,5758.0,17.14,23.21,100.0,High Quality,Cash Accumulator
+BHARTIARTL,Mar 2016,13851.0,40.76,14.6,100.0,High Quality,Cash Accumulator
+BHARTIARTL,Mar 2017,-2400.0,-6.79,32.14,100.0,High Quality,Mixed
+BHARTIARTL,Mar 2018,1914.0,6.36,33.81,100.0,High Quality,Shareholder Returns
+BHARTIARTL,Mar 2019,-8216.0,-31.89,35.02,100.0,High Quality,Growth Funded by Debt
+BHARTIARTL,Mar 2020,-11469.0,-31.33,33.81,0.0,Accrual Risk,Pre-Revenue
+BHARTIARTL,Mar 2021,20919.0,46.2,27.12,0.0,Accrual Risk,Pre-Revenue
+BHARTIARTL,Mar 2022,13539.0,23.53,35.59,100.0,High Quality,Cash Accumulator
+BHARTIARTL,Mar 2023,26093.0,36.61,28.2,100.0,High Quality,Cash Accumulator
+BHARTIARTL,Mar 2024,27809.0,35.52,34.06,100.0,High Quality,Cash Accumulator
+BHARTIARTL,TTM,,,,100.0,Accrual Risk,Mixed
+BEL,Mar 2013,214.0,31.99,27.95,0.0,Accrual Risk,Reinvestor
+BEL,Mar 2014,190.0,20.54,11.64,0.0,Accrual Risk,Reinvestor
+BEL,Mar 2015,595.0,50.47,11.83,100.0,High Quality,Cash Accumulator
+BEL,Mar 2016,790.0,56.71,19.99,100.0,High Quality,Cash Accumulator
+BEL,Mar 2017,3054.0,170.42,35.99,0.0,Accrual Risk,Reinvestor
+BEL,Mar 2018,-693.0,-33.99,0.06,0.0,Accrual Risk,Mixed
+BEL,Mar 2019,618.0,21.24,7.37,80.23,Moderate,Cash Accumulator
+BEL,Mar 2020,1921.0,69.63,5.0,100.0,High Quality,Cash Accumulator
+BEL,Mar 2021,2498.0,77.72,18.39,100.0,High Quality,Cash Accumulator
+BEL,Mar 2022,-665.0,-19.89,31.7,100.0,High Quality,Mixed
+BEL,Mar 2023,3907.0,95.53,15.27,40.15,Accrual Risk,Reinvestor
+BEL,Mar 2024,-1265.0,-25.04,29.23,100.0,High Quality,Mixed
+BEL,TTM,,,,100.0,Accrual Risk,Mixed
+BHEL,Mar 2013,646.0,6.81,2.28,26.28,Accrual Risk,Shareholder Returns
+BHEL,Mar 2014,3644.0,79.58,2.19,100.0,High Quality,Shareholder Returns
+BHEL,Mar 2015,1471.0,68.71,2.08,56.62,Moderate,Reinvestor
+BHEL,Mar 2016,397.0,-29.26,0.09,0.0,Accrual Risk,Pre-Revenue
+BHEL,Mar 2017,-5.0,-0.46,1.98,100.0,High Quality,Mixed
+BHEL,Mar 2018,1950.0,117.97,3.33,100.0,High Quality,Reinvestor
+BHEL,Mar 2019,-1941.0,-95.52,6.3,0.0,Accrual Risk,Liquidating Assets
+BHEL,Mar 2020,-1015.0,763.16,8.75,100.0,High Quality,Pre-Revenue
+BHEL,Mar 2021,518.0,-16.99,0.24,0.0,Accrual Risk,Pre-Revenue
+BHEL,Mar 2022,-458.0,-55.31,5.27,100.0,High Quality,Mixed
+BHEL,Mar 2023,739.0,70.79,6.33,0.0,Accrual Risk,Mixed
+BHEL,Mar 2024,-2382.0,-335.02,5.57,0.0,Accrual Risk,Liquidating Assets
+BHEL,TTM,,,,100.0,Accrual Risk,Mixed
+BOSCHLTD,Dec 2012,47.0,3.48,9.52,90.92,Moderate,Cash Accumulator
+BOSCHLTD,Dec 2013,211.0,16.37,9.66,100.0,High Quality,Cash Accumulator
+BOSCHLTD,Mar 2015,213.0,10.75,9.79,100.0,High Quality,Cash Accumulator
+BOSCHLTD,Mar 2016,323.0,17.2,10.26,86.09,Moderate,Cash Accumulator
+BOSCHLTD,Mar 2017,2703.0,137.7,11.94,83.69,Moderate,Reinvestor
+BOSCHLTD,Mar 2018,559.0,26.71,10.01,100.0,High Quality,Cash Accumulator
+BOSCHLTD,Mar 2019,2359.0,109.52,14.61,37.11,Accrual Risk,Reinvestor
+BOSCHLTD,Mar 2020,463.0,31.22,8.87,100.0,High Quality,Cash Accumulator
+BOSCHLTD,Mar 2021,372.0,31.99,4.76,100.0,High Quality,Cash Accumulator
+BOSCHLTD,Mar 2022,238.0,16.28,0.28,22.27,Accrual Risk,Cash Accumulator
+BOSCHLTD,Mar 2023,1476.0,81.55,1.75,85.25,Moderate,Reinvestor
+BOSCHLTD,Mar 2024,1536.0,73.32,1.69,50.32,Moderate,Reinvestor
+BOSCHLTD,TTM,,,,100.0,Accrual Risk,Mixed
+BPCL,Mar 2013,2322.0,34.61,1.49,100.0,High Quality,Cash Accumulator
+BPCL,Mar 2014,2707.0,28.76,2.6,100.0,High Quality,Cash Accumulator
+BPCL,Mar 2015,10206.0,104.36,4.34,100.0,High Quality,Cash Accumulator
+BPCL,Mar 2016,1886.0,14.54,4.92,100.0,High Quality,Cash Accumulator
+BPCL,Mar 2017,-6233.0,-45.22,7.59,95.1,Moderate,Growth Funded by Debt
+BPCL,Mar 2018,4002.0,26.13,3.0,100.0,High Quality,Cash Accumulator
+BPCL,Mar 2019,-294.0,-1.95,3.5,100.0,High Quality,Growth Funded by Debt
+BPCL,Mar 2020,-3254.0,-36.26,3.91,100.0,High Quality,Growth Funded by Debt
+BPCL,Mar 2021,20981.0,99.9,1.07,100.0,High Quality,Cash Accumulator
+BPCL,Mar 2022,12198.0,63.74,2.35,100.0,High Quality,Cash Accumulator
+BPCL,Mar 2023,4660.0,42.76,1.65,100.0,High Quality,Cash Accumulator
+BPCL,Mar 2024,25415.0,57.65,2.35,100.0,High Quality,Cash Accumulator
+BPCL,TTM,,,,100.0,Accrual Risk,Mixed
+BRITANNIA,Mar 2013,348.0,82.66,0.45,100.0,High Quality,Reinvestor
+BRITANNIA,Mar 2014,425.0,67.78,3.56,100.0,High Quality,Cash Accumulator
+BRITANNIA,Mar 2015,134.0,15.4,5.73,84.76,Moderate,Cash Accumulator
+BRITANNIA,Mar 2016,254.0,20.75,8.4,100.0,High Quality,Cash Accumulator
+BRITANNIA,Mar 2017,291.0,22.77,1.66,49.83,Accrual Risk,Cash Accumulator
+BRITANNIA,Mar 2018,292.0,19.45,9.65,100.0,High Quality,Cash Accumulator
+BRITANNIA,Mar 2019,304.0,17.55,7.71,100.0,High Quality,Cash Accumulator
+BRITANNIA,Mar 2020,-41.0,-2.22,13.16,100.0,High Quality,Growth Funded by Debt
+BRITANNIA,Mar 2021,2309.0,92.03,3.3,100.0,High Quality,Reinvestor
+BRITANNIA,Mar 2022,2214.0,100.59,6.47,85.75,Moderate,Reinvestor
+BRITANNIA,Mar 2023,1019.0,35.99,9.24,100.0,High Quality,Cash Accumulator
+BRITANNIA,Mar 2024,3050.0,96.31,2.84,100.0,High Quality,Reinvestor
+BRITANNIA,TTM,,,,100.0,Accrual Risk,Mixed
+CANBK,Mar 2013,7575.0,104.96,1.28,100.0,High Quality,Cash Accumulator
+CANBK,Mar 2014,13864.0,143.88,0.96,100.0,High Quality,Cash Accumulator
+CANBK,Mar 2015,5240.0,50.86,2.52,100.0,High Quality,Cash Accumulator
+CANBK,Mar 2016,8903.0,50.06,1.01,0.0,Accrual Risk,Pre-Revenue
+CANBK,Mar 2017,2099.0,13.38,1.15,100.0,High Quality,Shareholder Returns
+CANBK,Mar 2018,-11607.0,-45.37,1.18,100.0,High Quality,Pre-Revenue
+CANBK,Mar 2019,17492.0,64.3,1.55,100.0,High Quality,Cash Accumulator
+CANBK,Mar 2020,-5734.0,-21.39,0.89,100.0,High Quality,Pre-Revenue
+CANBK,Mar 2021,58002.0,133.53,1.59,100.0,High Quality,Shareholder Returns
+CANBK,Mar 2022,-510.0,-1.24,2.02,14.92,Accrual Risk,Growth Funded by Debt
+CANBK,Mar 2023,-41134.0,-96.17,1.35,0.0,Accrual Risk,Growth Funded by Debt
+CANBK,Mar 2024,13296.0,28.81,1.58,97.69,Moderate,Cash Accumulator
+CANBK,TTM,,,,100.0,Accrual Risk,Mixed
+CHOLAFIN,Mar 2013,-3749.0,-544.91,0.19,0.0,Accrual Risk,Liquidating Assets
+CHOLAFIN,Mar 2014,-2530.0,-271.46,2.53,0.0,Accrual Risk,Growth Funded by Debt
+CHOLAFIN,Mar 2015,-2304.0,-217.15,1.08,0.0,Accrual Risk,Growth Funded by Debt
+CHOLAFIN,Mar 2016,-2946.0,-232.7,3.25,0.0,Accrual Risk,Growth Funded by Debt
+CHOLAFIN,Mar 2017,-1690.0,-127.84,4.73,0.0,Accrual Risk,Growth Funded by Debt
+CHOLAFIN,Mar 2018,-7986.0,-550.38,1.08,0.0,Accrual Risk,Growth Funded by Debt
+CHOLAFIN,Mar 2019,-9328.0,-571.57,0.15,0.0,Accrual Risk,Growth Funded by Debt
+CHOLAFIN,Mar 2020,-2129.0,-87.94,0.62,0.0,Accrual Risk,Growth Funded by Debt
+CHOLAFIN,Mar 2021,-10594.0,-363.68,18.22,0.0,Accrual Risk,Growth Funded by Debt
+CHOLAFIN,Mar 2022,-3931.0,-134.35,16.16,0.0,Accrual Risk,Liquidating Assets
+CHOLAFIN,Mar 2023,-29253.0,-807.87,16.67,0.0,Accrual Risk,Growth Funded by Debt
+CHOLAFIN,Mar 2024,-38538.0,-715.65,14.9,0.0,Accrual Risk,Growth Funded by Debt
+CHOLAFIN,TTM,,,,100.0,Accrual Risk,Mixed
+CIPLA,Mar 2013,-665.0,-10.96,24.92,90.49,Moderate,Growth Funded by Debt
+CIPLA,Mar 2014,298.0,3.71,12.43,100.0,High Quality,Cash Accumulator
+CIPLA,Mar 2015,223.0,2.43,8.37,95.44,Moderate,Shareholder Returns
+CIPLA,Mar 2016,-2792.0,-24.69,32.87,100.0,High Quality,Growth Funded by Debt
+CIPLA,Mar 2017,1078.0,9.06,9.06,100.0,High Quality,Cash Accumulator
+CIPLA,Mar 2018,629.0,5.1,5.5,100.0,High Quality,Cash Accumulator
+CIPLA,Mar 2019,3.0,0.02,10.32,100.0,High Quality,Cash Accumulator
+CIPLA,Mar 2020,3182.0,22.85,0.67,100.0,High Quality,Reinvestor
+CIPLA,Mar 2021,1381.0,9.26,12.39,100.0,High Quality,Cash Accumulator
+CIPLA,Mar 2022,1468.0,8.53,8.54,100.0,High Quality,Cash Accumulator
+CIPLA,Mar 2023,862.0,4.86,10.44,100.0,High Quality,Cash Accumulator
+CIPLA,Mar 2024,1152.0,5.91,11.57,99.52,Moderate,Cash Accumulator
+CIPLA,TTM,,,,100.0,Accrual Risk,Mixed
+COALINDIA,Mar 2013,7276.0,14.49,2.68,52.48,Moderate,Cash Accumulator
+COALINDIA,Mar 2014,23105.0,43.72,12.15,96.12,Moderate,Reinvestor
+COALINDIA,Mar 2015,15276.0,26.91,1.21,100.0,High Quality,Reinvestor
+COALINDIA,Mar 2016,21308.0,36.03,10.47,92.2,Moderate,Reinvestor
+COALINDIA,Mar 2017,16916.0,25.74,0.58,100.0,High Quality,Reinvestor
+COALINDIA,Mar 2018,13368.0,17.6,9.09,100.0,High Quality,Cash Accumulator
+COALINDIA,Mar 2019,8460.0,11.34,7.93,93.66,Moderate,Cash Accumulator
+COALINDIA,Mar 2020,6010.0,8.07,1.08,29.8,Accrual Risk,Reinvestor
+COALINDIA,Mar 2021,10774.0,15.09,0.2,83.39,Moderate,Reinvestor
+COALINDIA,Mar 2022,15392.0,18.11,23.44,100.0,High Quality,Cash Accumulator
+COALINDIA,Mar 2023,12269.0,13.05,16.97,100.0,High Quality,Cash Accumulator
+COALINDIA,Mar 2024,13617.0,14.43,3.15,48.44,Accrual Risk,Cash Accumulator
+COALINDIA,TTM,,,,100.0,Accrual Risk,Mixed
+DABUR,Mar 2013,248.0,25.0,10.13,100.0,High Quality,Cash Accumulator
+DABUR,Mar 2014,994.0,85.54,1.47,100.0,High Quality,Cash Accumulator
+DABUR,Mar 2015,171.0,12.95,11.24,98.03,Moderate,Cash Accumulator
+DABUR,Mar 2016,457.0,30.11,9.38,94.66,Moderate,Cash Accumulator
+DABUR,Mar 2017,420.0,27.78,10.6,95.86,Moderate,Cash Accumulator
+DABUR,Mar 2018,551.0,34.08,7.01,80.41,Moderate,Cash Accumulator
+DABUR,Mar 2019,1837.0,105.57,3.97,100.0,High Quality,Reinvestor
+DABUR,Mar 2020,1097.0,61.22,5.95,100.0,High Quality,Cash Accumulator
+DABUR,Mar 2021,711.0,35.51,14.68,100.0,High Quality,Cash Accumulator
+DABUR,Mar 2022,529.0,23.49,11.69,100.0,High Quality,Cash Accumulator
+DABUR,Mar 2023,905.0,41.86,5.06,87.48,Moderate,Cash Accumulator
+DABUR,Mar 2024,1042.0,43.42,7.83,100.0,High Quality,Cash Accumulator
+DABUR,TTM,,,,100.0,Accrual Risk,Mixed
+DIVISLAB,Mar 2013,225.0,27.57,11.89,79.73,Moderate,Cash Accumulator
+DIVISLAB,Mar 2014,252.0,24.75,12.05,72.06,Moderate,Cash Accumulator
+DIVISLAB,Mar 2015,305.0,26.0,16.73,96.95,Moderate,Cash Accumulator
+DIVISLAB,Mar 2016,632.0,44.41,10.75,92.18,Moderate,Cash Accumulator
+DIVISLAB,Mar 2017,10.0,0.69,28.05,100.0,High Quality,Shareholder Returns
+DIVISLAB,Mar 2018,298.0,23.48,12.28,88.48,Moderate,Cash Accumulator
+DIVISLAB,Mar 2019,269.0,14.35,13.85,70.51,Moderate,Cash Accumulator
+DIVISLAB,Mar 2020,1133.0,62.05,1.54,88.31,Moderate,Cash Accumulator
+DIVISLAB,Mar 2021,2022.0,70.53,1.08,98.14,Moderate,Reinvestor
+DIVISLAB,Mar 2022,-283.0,-7.28,24.5,64.59,Moderate,Mixed
+DIVISLAB,Mar 2023,-248.0,-10.46,34.85,100.0,High Quality,Mixed
+DIVISLAB,Mar 2024,992.0,44.89,3.43,78.81,Moderate,Cash Accumulator
+DIVISLAB,TTM,,,,100.0,Accrual Risk,Mixed
+DLF,Mar 2013,4004.0,152.07,25.67,100.0,High Quality,Reinvestor
+DLF,Mar 2014,5392.0,216.29,47.29,100.0,High Quality,Reinvestor
+DLF,Mar 2015,2135.0,70.84,1.28,100.0,High Quality,Reinvestor
+DLF,Mar 2016,2139.0,53.93,8.24,100.0,High Quality,Cash Accumulator
+DLF,Mar 2017,-26.0,-0.75,10.61,0.0,Accrual Risk,Liquidating Assets
+DLF,Mar 2018,-1832.0,-77.04,31.34,6.03,Accrual Risk,Mixed
+DLF,Mar 2019,2046.0,95.25,0.04,100.0,High Quality,Mixed
+DLF,Mar 2020,6864.0,598.95,106.99,0.0,Accrual Risk,Pre-Revenue
+DLF,Mar 2021,1610.0,109.6,2.77,100.0,High Quality,Reinvestor
+DLF,Mar 2022,3099.0,177.8,4.67,100.0,High Quality,Reinvestor
+DLF,Mar 2023,1914.0,110.89,8.09,100.0,High Quality,Cash Accumulator
+DLF,Mar 2024,1010.0,47.55,23.79,93.21,Moderate,Shareholder Returns
+DLF,TTM,,,,100.0,Accrual Risk,Mixed
+DMART,Mar 2013,-104.0,-48.37,6.91,100.0,High Quality,Growth Funded by Debt
+DMART,Mar 2014,-72.0,-21.11,5.76,100.0,High Quality,Growth Funded by Debt
+DMART,Mar 2015,-252.0,-55.26,7.36,100.0,High Quality,Growth Funded by Debt
+DMART,Mar 2016,-200.0,-30.12,7.37,100.0,High Quality,Growth Funded by Debt
+DMART,Mar 2017,-2027.0,-209.18,20.86,94.99,Moderate,Growth Funded by Debt
+DMART,Mar 2018,1194.0,88.25,3.09,90.57,Moderate,Reinvestor
+DMART,Mar 2019,-151.0,-9.25,4.79,89.47,Moderate,Growth Funded by Debt
+DMART,Mar 2020,-3377.0,-158.69,18.73,98.39,Moderate,Growth Funded by Debt
+DMART,Mar 2021,265.0,15.19,4.6,100.0,High Quality,Cash Accumulator
+DMART,Mar 2022,83.0,3.32,4.16,91.96,Moderate,Cash Accumulator
+DMART,Mar 2023,317.0,8.71,5.4,100.0,High Quality,Cash Accumulator
+DMART,Mar 2024,278.0,6.77,4.86,100.0,High Quality,Cash Accumulator
+DMART,TTM,,,,100.0,Accrual Risk,Mixed
+DRREDDY,Mar 2013,-59.0,-2.21,12.14,90.24,Moderate,Mixed
+DRREDDY,Mar 2014,366.0,11.26,11.96,100.0,High Quality,Cash Accumulator
+DRREDDY,Mar 2015,154.0,4.39,15.78,100.0,High Quality,Cash Accumulator
+DRREDDY,Mar 2016,1653.0,46.11,10.34,100.0,High Quality,Cash Accumulator
+DRREDDY,Mar 2017,254.0,10.28,13.31,100.0,High Quality,Cash Accumulator
+DRREDDY,Mar 2018,320.0,13.61,10.38,100.0,High Quality,Cash Accumulator
+DRREDDY,Mar 2019,2101.0,66.11,4.98,100.0,High Quality,Cash Accumulator
+DRREDDY,Mar 2020,2489.0,100.48,2.83,100.0,High Quality,Cash Accumulator
+DRREDDY,Mar 2021,1315.0,33.94,11.84,100.0,High Quality,Cash Accumulator
+DRREDDY,Mar 2022,246.0,6.53,11.91,100.0,High Quality,Cash Accumulator
+DRREDDY,Mar 2023,1779.0,27.5,16.66,100.0,High Quality,Cash Accumulator
+DRREDDY,Mar 2024,509.0,6.42,14.4,81.44,Moderate,Cash Accumulator
+DRREDDY,TTM,,,,100.0,Accrual Risk,Mixed
+EICHERMOT,Dec 2012,-277.0,-50.36,12.1,100.0,High Quality,Mixed
+EICHERMOT,Dec 2013,-74.0,-10.35,11.6,100.0,High Quality,Mixed
+EICHERMOT,Dec 2014,-167.0,-14.94,13.89,100.0,High Quality,Mixed
+EICHERMOT,Mar 2016,462.0,27.34,16.22,100.0,High Quality,Cash Accumulator
+EICHERMOT,Mar 2017,-36.0,-1.66,24.8,100.0,High Quality,Growth Funded by Debt
+EICHERMOT,Mar 2018,337.0,12.0,23.93,100.0,High Quality,Cash Accumulator
+EICHERMOT,Mar 2019,915.0,31.51,6.74,71.49,Moderate,Cash Accumulator
+EICHERMOT,Mar 2020,186.0,8.52,16.47,92.72,Moderate,Cash Accumulator
+EICHERMOT,Mar 2021,66.0,3.7,18.64,100.0,High Quality,Cash Accumulator
+EICHERMOT,Mar 2022,544.0,24.98,9.55,91.06,Moderate,Cash Accumulator
+EICHERMOT,Mar 2023,426.0,12.36,16.6,96.88,Moderate,Cash Accumulator
+EICHERMOT,Mar 2024,890.0,20.56,17.14,93.08,Moderate,Cash Accumulator
+EICHERMOT,TTM,,,,100.0,Accrual Risk,Mixed
+GAIL,Mar 2013,-2023.0,-27.24,16.92,100.0,High Quality,Growth Funded by Debt
+GAIL,Mar 2014,149.0,1.87,7.23,96.43,Moderate,Cash Accumulator
+GAIL,Mar 2015,1405.0,24.95,4.64,100.0,High Quality,Cash Accumulator
+GAIL,Mar 2016,3056.0,67.37,1.74,100.0,High Quality,Cash Accumulator
+GAIL,Mar 2017,5690.0,94.5,0.69,100.0,High Quality,Cash Accumulator
+GAIL,Mar 2018,6109.0,78.3,4.88,100.0,High Quality,Cash Accumulator
+GAIL,Mar 2019,2283.0,22.97,7.48,100.0,High Quality,Cash Accumulator
+GAIL,Mar 2020,46.0,0.51,11.44,87.7,Moderate,Shareholder Returns
+GAIL,Mar 2021,4353.0,60.08,8.09,100.0,High Quality,Cash Accumulator
+GAIL,Mar 2022,3930.0,25.92,5.92,76.56,Moderate,Cash Accumulator
+GAIL,Mar 2023,-4248.0,-56.64,5.12,57.27,Moderate,Growth Funded by Debt
+GAIL,Mar 2024,4360.0,30.46,6.17,100.0,High Quality,Cash Accumulator
+GAIL,TTM,,,,100.0,Accrual Risk,Mixed
+GODREJCP,Mar 2013,-45.0,-4.52,13.49,97.04,Moderate,Growth Funded by Debt
+GODREJCP,Mar 2014,622.0,53.21,6.5,100.0,High Quality,Cash Accumulator
+GODREJCP,Mar 2015,-209.0,-15.16,14.94,100.0,High Quality,Mixed
+GODREJCP,Mar 2016,225.0,13.58,7.38,100.0,High Quality,Cash Accumulator
+GODREJCP,Mar 2017,-383.0,-20.08,24.2,100.0,High Quality,Growth Funded by Debt
+GODREJCP,Mar 2018,1387.0,66.55,3.41,100.0,High Quality,Cash Accumulator
+GODREJCP,Mar 2019,2003.0,93.95,2.66,73.83,Moderate,Reinvestor
+GODREJCP,Mar 2020,1036.0,48.1,5.57,100.0,High Quality,Cash Accumulator
+GODREJCP,Mar 2021,1738.0,72.45,2.65,100.0,High Quality,Cash Accumulator
+GODREJCP,Mar 2022,607.0,25.2,6.88,81.38,Moderate,Cash Accumulator
+GODREJCP,Mar 2023,397.0,16.25,13.17,100.0,High Quality,Cash Accumulator
+GODREJCP,Mar 2024,-1365.0,-46.16,24.37,0.0,Accrual Risk,Pre-Revenue
+GODREJCP,TTM,,,,100.0,Accrual Risk,Pre-Revenue
+GRASIM,Mar 2013,-1445.0,-24.39,20.38,100.0,High Quality,Growth Funded by Debt
+GRASIM,Mar 2014,1213.0,24.68,8.25,100.0,High Quality,Cash Accumulator
+GRASIM,Mar 2015,2235.0,43.45,7.43,100.0,High Quality,Cash Accumulator
+GRASIM,Mar 2016,1353.0,22.89,13.09,100.0,High Quality,Cash Accumulator
+GRASIM,Mar 2017,3779.0,51.16,9.73,100.0,High Quality,Cash Accumulator
+GRASIM,Mar 2018,-2594.0,-22.34,2.77,0.0,Accrual Risk,Liquidating Assets
+GRASIM,Mar 2019,-3871.0,-23.26,2.87,0.0,Accrual Risk,Growth Funded by Debt
+GRASIM,Mar 2020,5256.0,50.67,16.65,100.0,High Quality,Cash Accumulator
+GRASIM,Mar 2021,7929.0,42.55,9.35,100.0,High Quality,Cash Accumulator
+GRASIM,Mar 2022,5985.0,29.29,1.1,62.81,Moderate,Cash Accumulator
+GRASIM,Mar 2023,-26397.0,-122.27,11.66,0.0,Accrual Risk,Growth Funded by Debt
+GRASIM,Mar 2024,-33833.0,-124.41,17.65,0.0,Accrual Risk,Growth Funded by Debt
+GRASIM,TTM,,,,100.0,Accrual Risk,Mixed
+HAL,Mar 2013,,,,100.0,Accrual Risk,Mixed
+HAL,Mar 2014,,,,100.0,Accrual Risk,Mixed
+HAL,Mar 2015,,,,100.0,Accrual Risk,Mixed
+HAL,Mar 2016,,,,100.0,Accrual Risk,Mixed
+HAL,Mar 2017,2598.0,80.28,16.83,0.0,Accrual Risk,Reinvestor
+HAL,Mar 2018,-140.0,-4.05,3.21,0.0,Accrual Risk,Liquidating Assets
+HAL,Mar 2019,-2402.0,-52.57,26.45,0.0,Accrual Risk,Liquidating Assets
+HAL,Mar 2020,203.0,4.16,6.22,54.08,Moderate,Shareholder Returns
+HAL,Mar 2021,13934.0,260.89,5.2,100.0,High Quality,Cash Accumulator
+HAL,Mar 2022,-2609.0,-48.14,51.95,100.0,High Quality,Mixed
+HAL,Mar 2023,3102.0,46.51,21.29,100.0,High Quality,Cash Accumulator
+HAL,Mar 2024,1814.0,18.61,21.11,100.0,High Quality,Cash Accumulator
+HAL,TTM,,,,100.0,Accrual Risk,Mixed
+HAVELLS,Mar 2013,494.0,73.29,2.02,100.0,High Quality,Cash Accumulator
+HAVELLS,Mar 2014,492.0,63.32,4.67,100.0,High Quality,Cash Accumulator
+HAVELLS,Mar 2015,478.0,63.31,5.73,100.0,High Quality,Cash Accumulator
+HAVELLS,Mar 2016,392.0,49.25,1.59,39.46,Accrual Risk,Cash Accumulator
+HAVELLS,Mar 2017,547.0,67.12,3.59,100.0,High Quality,Cash Accumulator
+HAVELLS,Mar 2018,154.0,14.91,11.66,100.0,High Quality,Cash Accumulator
+HAVELLS,Mar 2019,686.0,57.7,1.84,63.58,Moderate,Reinvestor
+HAVELLS,Mar 2020,279.0,26.15,5.81,100.0,High Quality,Cash Accumulator
+HAVELLS,Mar 2021,-103.0,-6.48,7.3,63.22,Moderate,Growth Funded by Debt
+HAVELLS,Mar 2022,969.0,54.59,5.45,100.0,High Quality,Cash Accumulator
+HAVELLS,Mar 2023,596.0,36.77,0.18,52.71,Moderate,Reinvestor
+HAVELLS,Mar 2024,335.0,17.81,8.7,100.0,High Quality,Cash Accumulator
+HAVELLS,TTM,,,,100.0,Accrual Risk,Mixed
+HCLTECH,Jun 2013,2131.0,37.52,9.23,100.0,High Quality,Cash Accumulator
+HCLTECH,Jun 2014,1615.0,20.1,15.06,98.91,Moderate,Cash Accumulator
+HCLTECH,Jun 2015,3451.0,40.67,5.69,75.44,Moderate,Cash Accumulator
+HCLTECH,Mar 2016 9m,,,,100.0,Accrual Risk,Mixed
+HCLTECH,Mar 2017,5105.0,49.13,8.18,100.0,High Quality,Cash Accumulator
+HCLTECH,Mar 2018,6092.0,54.17,4.42,95.48,Moderate,Cash Accumulator
+HCLTECH,Mar 2019,5715.0,41.04,5.39,88.65,Moderate,Cash Accumulator
+HCLTECH,Mar 2020,1027.0,5.93,17.45,100.0,High Quality,Cash Accumulator
+HCLTECH,Mar 2021,13953.0,69.6,7.52,100.0,High Quality,Cash Accumulator
+HCLTECH,Mar 2022,18497.0,90.1,1.86,100.0,High Quality,Reinvestor
+HCLTECH,Mar 2023,14436.0,63.8,3.52,100.0,High Quality,Cash Accumulator
+HCLTECH,Mar 2024,15840.0,65.46,6.01,100.0,High Quality,Cash Accumulator
+HCLTECH,TTM,,,,100.0,Accrual Risk,Mixed
+HDFCBANK,Mar 2013,-6749.0,-53.43,2.52,0.0,Accrual Risk,Growth Funded by Debt
+HDFCBANK,Mar 2014,3112.0,23.04,2.58,48.03,Accrual Risk,Shareholder Returns
+HDFCBANK,Mar 2015,-22081.0,-136.61,1.58,0.0,Accrual Risk,Growth Funded by Debt
+HDFCBANK,Mar 2016,-35272.0,-175.88,1.33,0.0,Accrual Risk,Growth Funded by Debt
+HDFCBANK,Mar 2017,16136.0,67.64,1.56,100.0,High Quality,Cash Accumulator
+HDFCBANK,Mar 2018,16372.0,55.44,0.99,92.74,Moderate,Shareholder Returns
+HDFCBANK,Mar 2019,-64375.0,-184.69,1.43,0.0,Accrual Risk,Growth Funded by Debt
+HDFCBANK,Mar 2020,-18272.0,-40.19,1.15,0.0,Accrual Risk,Growth Funded by Debt
+HDFCBANK,Mar 2021,40653.0,77.5,1.42,100.0,High Quality,Cash Accumulator
+HDFCBANK,Mar 2022,-14011.0,-24.77,1.51,0.0,Accrual Risk,Growth Funded by Debt
+HDFCBANK,Mar 2023,17822.0,28.27,1.75,45.1,Accrual Risk,Shareholder Returns
+HDFCBANK,Mar 2024,35669.0,20.48,5.85,29.14,Accrual Risk,Reinvestor
+HDFCBANK,TTM,,,,100.0,Accrual Risk,Mixed
+HDFCLIFE,Mar 2013,,,,100.0,Accrual Risk,Mixed
+HDFCLIFE,Mar 2014,,,,100.0,Accrual Risk,Mixed
+HDFCLIFE,Mar 2015,945.0,3.59,12.91,100.0,High Quality,Cash Accumulator
+HDFCLIFE,Mar 2016,1725.0,10.04,21.84,100.0,High Quality,Cash Accumulator
+HDFCLIFE,Mar 2017,1053.0,3.55,16.89,100.0,High Quality,Cash Accumulator
+HDFCLIFE,Mar 2018,2318.0,7.43,13.7,100.0,High Quality,Cash Accumulator
+HDFCLIFE,Mar 2019,-314.0,-0.83,26.21,100.0,High Quality,Mixed
+HDFCLIFE,Mar 2020,-401.0,-1.42,26.51,100.0,High Quality,Growth Funded by Debt
+HDFCLIFE,Mar 2021,751.0,1.07,12.52,100.0,High Quality,Shareholder Returns
+HDFCLIFE,Mar 2022,5142.0,7.75,1.19,100.0,High Quality,Cash Accumulator
+HDFCLIFE,Mar 2023,-3188.0,-4.55,14.34,100.0,High Quality,Growth Funded by Debt
+HDFCLIFE,Mar 2024,-2893.0,-2.87,13.42,100.0,High Quality,Mixed
+HDFCLIFE,TTM,,,,100.0,Accrual Risk,Mixed
+HEROMOTOCO,Mar 2014,1347.0,6.2,6.39,100.0,High Quality,Cash Accumulator
+HEROMOTOCO,Mar 2015,2217.0,9.23,0.11,92.47,Moderate,Reinvestor
+HEROMOTOCO,Mar 2016,1422.0,5.92,8.08,100.0,High Quality,Cash Accumulator
+HEROMOTOCO,Mar 2017,2035.0,8.47,6.89,100.0,High Quality,Cash Accumulator
+HEROMOTOCO,Mar 2018,2159.0,7.96,5.72,100.0,High Quality,Cash Accumulator
+HEROMOTOCO,Mar 2019,2330.0,8.05,3.82,29.77,Accrual Risk,Reinvestor
+HEROMOTOCO,Mar 2020,2699.0,10.72,9.64,100.0,High Quality,Cash Accumulator
+HEROMOTOCO,Mar 2021,1821.0,6.77,7.39,100.0,High Quality,Cash Accumulator
+HEROMOTOCO,Mar 2022,1882.0,7.16,0.75,90.34,Moderate,Cash Accumulator
+HEROMOTOCO,Mar 2023,2193.0,7.3,1.23,93.36,Moderate,Cash Accumulator
+HEROMOTOCO,Mar 2024,3095.0,9.51,4.84,100.0,High Quality,Cash Accumulator
+HEROMOTOCO,TTM,,,,100.0,Accrual Risk,Mixed
+HINDALCO,Mar 2013,-10824.0,-14.93,17.21,99.0,Moderate,Growth Funded by Debt
+HINDALCO,Mar 2014,-139.0,-0.17,9.23,100.0,High Quality,Growth Funded by Debt
+HINDALCO,Mar 2015,3270.0,3.43,3.71,100.0,High Quality,Cash Accumulator
+HINDALCO,Mar 2016,8468.0,9.31,3.26,0.0,Accrual Risk,Pre-Revenue
+HINDALCO,Mar 2017,9811.0,11.17,2.87,100.0,High Quality,Cash Accumulator
+HINDALCO,Mar 2018,16231.0,15.99,4.63,100.0,High Quality,Reinvestor
+HINDALCO,Mar 2019,6521.0,5.67,4.18,100.0,High Quality,Cash Accumulator
+HINDALCO,Mar 2020,5518.0,5.31,6.12,100.0,High Quality,Shareholder Returns
+HINDALCO,Mar 2021,-8048.0,-7.03,19.15,100.0,High Quality,Mixed
+HINDALCO,Mar 2022,10065.0,6.04,3.47,100.0,High Quality,Cash Accumulator
+HINDALCO,Mar 2023,11649.0,5.81,3.39,100.0,High Quality,Cash Accumulator
+HINDALCO,Mar 2024,9789.0,5.1,6.61,100.0,High Quality,Cash Accumulator
+HINDALCO,TTM,,,,100.0,Accrual Risk,Mixed
+HINDUNILVR,Mar 2013,3668.0,16.1,0.23,93.9,Moderate,Reinvestor
+HINDUNILVR,Mar 2014,3343.0,13.66,1.62,96.51,Moderate,Cash Accumulator
+HINDUNILVR,Mar 2015,3430.0,12.91,0.43,75.23,Moderate,Reinvestor
+HINDUNILVR,Mar 2016,3889.0,14.8,0.88,100.0,High Quality,Cash Accumulator
+HINDUNILVR,Mar 2017,4012.0,14.95,3.54,100.0,High Quality,Cash Accumulator
+HINDUNILVR,Mar 2018,4996.0,17.81,2.99,100.0,High Quality,Cash Accumulator
+HINDUNILVR,Mar 2019,5362.0,17.62,1.11,95.71,Moderate,Cash Accumulator
+HINDUNILVR,Mar 2020,9414.0,31.46,4.5,100.0,High Quality,Reinvestor
+HINDUNILVR,Mar 2021,7935.0,22.41,2.61,100.0,High Quality,Cash Accumulator
+HINDUNILVR,Mar 2022,7320.0,18.49,3.29,100.0,High Quality,Cash Accumulator
+HINDUNILVR,Mar 2023,8507.0,18.32,2.45,98.5,Moderate,Cash Accumulator
+HINDUNILVR,Mar 2024,10145.0,21.48,8.6,100.0,High Quality,Cash Accumulator
+HINDUNILVR,TTM,,,,100.0,Accrual Risk,Mixed
+ICICIBANK,Mar 2013,-1069.0,-3.37,41.36,100.0,High Quality,Growth Funded by Debt
+ICICIBANK,Mar 2014,-8985.0,-27.35,31.83,57.93,Moderate,Growth Funded by Debt
+ICICIBANK,Mar 2015,-25448.0,-65.65,23.97,0.0,Accrual Risk,Growth Funded by Debt
+ICICIBANK,Mar 2016,11585.0,22.17,20.34,100.0,High Quality,Shareholder Returns
+ICICIBANK,Mar 2017,50925.0,79.77,2.81,100.0,High Quality,Cash Accumulator
+ICICIBANK,Mar 2018,-31168.0,-42.81,81.32,100.0,High Quality,Growth Funded by Debt
+ICICIBANK,Mar 2019,18389.0,21.95,42.07,100.0,High Quality,Cash Accumulator
+ICICIBANK,Mar 2020,37470.0,43.9,49.62,100.0,High Quality,Shareholder Returns
+ICICIBANK,Mar 2021,74384.0,81.46,71.36,100.0,High Quality,Cash Accumulator
+ICICIBANK,Mar 2022,18663.0,23.1,41.35,100.0,High Quality,Shareholder Returns
+ICICIBANK,Mar 2023,-71460.0,-81.33,55.91,0.0,Accrual Risk,Growth Funded by Debt
+ICICIBANK,Mar 2024,12547.0,12.6,90.74,100.0,High Quality,Shareholder Returns
+ICICIBANK,TTM,,,,100.0,Accrual Risk,Mixed
+ICICIGI,Mar 2013,22.0,0.52,23.98,100.0,High Quality,Shareholder Returns
+ICICIGI,Mar 2014,-111.0,-2.42,16.22,100.0,High Quality,Growth Funded by Debt
+ICICIGI,Mar 2015,73.0,1.64,4.04,0.0,Accrual Risk,Reinvestor
+ICICIGI,Mar 2016,201.0,3.81,5.14,100.0,High Quality,Cash Accumulator
+ICICIGI,Mar 2017,-362.0,-5.48,26.46,100.0,High Quality,Growth Funded by Debt
+ICICIGI,Mar 2018,494.0,6.89,27.43,100.0,High Quality,Cash Accumulator
+ICICIGI,Mar 2019,120.0,1.26,25.58,100.0,High Quality,Cash Accumulator
+ICICIGI,Mar 2020,51.0,0.52,29.37,100.0,High Quality,Cash Accumulator
+ICICIGI,Mar 2021,407.0,4.03,11.24,100.0,High Quality,Cash Accumulator
+ICICIGI,Mar 2022,944.0,6.29,0.84,63.65,Moderate,Reinvestor
+ICICIGI,Mar 2023,605.0,3.64,9.43,100.0,High Quality,Cash Accumulator
+ICICIGI,Mar 2024,486.0,2.71,9.38,100.0,High Quality,Cash Accumulator
+ICICIGI,TTM,,,,100.0,Accrual Risk,Mixed
+ICICIPRULI,Mar 2013,-1077.0,-5.59,7.81,0.0,Accrual Risk,Liquidating Assets
+ICICIPRULI,Mar 2014,3630.0,17.81,27.47,0.0,Accrual Risk,Reinvestor
+ICICIPRULI,Mar 2015,-1299.0,-3.96,5.29,31.89,Accrual Risk,Mixed
+ICICIPRULI,Mar 2016,3661.0,19.26,0.13,100.0,High Quality,Reinvestor
+ICICIPRULI,Mar 2017,3434.0,9.54,1.84,100.0,High Quality,Cash Accumulator
+ICICIPRULI,Mar 2018,301.0,0.81,13.88,100.0,High Quality,Cash Accumulator
+ICICIPRULI,Mar 2019,3818.0,9.33,18.23,100.0,High Quality,Cash Accumulator
+ICICIPRULI,Mar 2020,-2201.0,-10.31,51.35,100.0,High Quality,Mixed
+ICICIPRULI,Mar 2021,2230.0,2.67,6.11,100.0,High Quality,Shareholder Returns
+ICICIPRULI,Mar 2022,1015.0,1.54,1.28,100.0,High Quality,Cash Accumulator
+ICICIPRULI,Mar 2023,-1056.0,-2.02,2.27,10.95,Accrual Risk,Mixed
+ICICIPRULI,Mar 2024,105.0,0.11,8.22,0.0,Accrual Risk,Reinvestor
+ICICIPRULI,TTM,,,,100.0,Accrual Risk,Mixed
+INDUSINDBK,Mar 2013,-660.0,-33.9,2.49,0.0,Accrual Risk,Growth Funded by Debt
+INDUSINDBK,Mar 2014,-4280.0,-167.51,2.11,0.0,Accrual Risk,Growth Funded by Debt
+INDUSINDBK,Mar 2015,-1697.0,-54.17,2.85,0.0,Accrual Risk,Growth Funded by Debt
+INDUSINDBK,Mar 2016,-3185.0,-76.05,2.17,0.0,Accrual Risk,Growth Funded by Debt
+INDUSINDBK,Mar 2017,11284.0,198.52,1.98,100.0,High Quality,Cash Accumulator
+INDUSINDBK,Mar 2018,-20917.0,-319.1,1.26,0.0,Accrual Risk,Growth Funded by Debt
+INDUSINDBK,Mar 2019,-7022.0,-75.64,2.84,0.0,Accrual Risk,Growth Funded by Debt
+INDUSINDBK,Mar 2020,-11513.0,-91.29,1.83,0.0,Accrual Risk,Liquidating Assets
+INDUSINDBK,Mar 2021,44420.0,277.68,0.78,100.0,High Quality,Cash Accumulator
+INDUSINDBK,Mar 2022,16249.0,102.58,1.14,100.0,High Quality,Cash Accumulator
+INDUSINDBK,Mar 2023,-12879.0,-82.96,1.21,0.0,Accrual Risk,Growth Funded by Debt
+INDUSINDBK,Mar 2024,-17468.0,-99.04,1.37,0.0,Accrual Risk,Mixed
+INDUSINDBK,TTM,,,,100.0,Accrual Risk,Mixed
+INFY,Mar 2013,4451.0,38.58,7.24,78.19,Moderate,Cash Accumulator
+INFY,Mar 2014,7262.0,54.23,5.11,92.2,Moderate,Cash Accumulator
+INFY,Mar 2015,9352.0,62.84,1.87,67.52,Moderate,Reinvestor
+INFY,Mar 2016,9143.0,53.53,1.42,74.34,Moderate,Cash Accumulator
+INFY,Mar 2017,-3133.0,-16.84,21.41,80.34,Moderate,Mixed
+INFY,Mar 2018,17751.0,94.31,6.43,82.46,Moderate,Reinvestor
+INFY,Mar 2019,14209.0,70.45,0.76,96.31,Moderate,Cash Accumulator
+INFY,Mar 2020,16672.0,74.87,0.36,100.0,High Quality,Cash Accumulator
+INFY,Mar 2021,15851.0,56.84,7.34,100.0,High Quality,Cash Accumulator
+INFY,Mar 2022,17400.0,55.25,5.33,100.0,High Quality,Cash Accumulator
+INFY,Mar 2023,21396.0,60.91,0.73,93.19,Moderate,Cash Accumulator
+INFY,Mar 2024,20117.0,55.23,3.31,96.05,Moderate,Cash Accumulator
+INFY,TTM,,,,100.0,Accrual Risk,Mixed
+IOC,Mar 2013,46.0,0.33,2.01,100.0,High Quality,Shareholder Returns
+IOC,Mar 2014,5601.0,32.52,3.81,100.0,High Quality,Cash Accumulator
+IOC,Mar 2015,35877.0,339.26,2.27,100.0,High Quality,Cash Accumulator
+IOC,Mar 2016,12014.0,54.51,3.93,100.0,High Quality,Cash Accumulator
+IOC,Mar 2017,10532.0,30.84,4.98,100.0,High Quality,Cash Accumulator
+IOC,Mar 2018,11996.0,28.8,4.06,100.0,High Quality,Cash Accumulator
+IOC,Mar 2019,-9822.0,-27.85,4.27,73.79,Moderate,Growth Funded by Debt
+IOC,Mar 2020,-21955.0,-136.77,6.02,0.0,Accrual Risk,Pre-Revenue
+IOC,Mar 2021,26715.0,66.91,6.3,100.0,High Quality,Cash Accumulator
+IOC,Mar 2022,4453.0,9.32,3.61,100.0,High Quality,Cash Accumulator
+IOC,Mar 2023,1614.0,5.26,3.33,100.0,High Quality,Cash Accumulator
+IOC,Mar 2024,39635.0,52.4,4.05,100.0,High Quality,Cash Accumulator
+IOC,TTM,,,,100.0,Accrual Risk,Mixed
+IRCTC,Mar 2015,23.0,15.13,4.34,52.67,Moderate,Cash Accumulator
+IRCTC,Mar 2016,295.0,155.26,0.51,100.0,High Quality,Reinvestor
+IRCTC,Mar 2017,432.0,137.58,6.18,100.0,High Quality,Reinvestor
+IRCTC,Mar 2018,64.0,23.36,2.73,10.86,Accrual Risk,Reinvestor
+IRCTC,Mar 2019,146.0,38.12,18.88,100.0,High Quality,Cash Accumulator
+IRCTC,Mar 2020,417.0,59.32,0.35,79.73,Moderate,Reinvestor
+IRCTC,Mar 2021,-205.0,-109.04,58.3,100.0,High Quality,Mixed
+IRCTC,Mar 2022,282.0,32.27,12.88,79.39,Moderate,Cash Accumulator
+IRCTC,Mar 2023,495.0,38.79,8.95,80.72,Moderate,Cash Accumulator
+IRCTC,Mar 2024,667.0,45.5,5.04,79.39,Moderate,Cash Accumulator
+IRCTC,TTM,,,,100.0,Accrual Risk,Mixed
+IRFC,Mar 2013,,,,100.0,Accrual Risk,Mixed
+IRFC,Mar 2014,,,,100.0,Accrual Risk,Mixed
+IRFC,Mar 2015,,,,100.0,Accrual Risk,Mixed
+IRFC,Mar 2016,-16376.0,-219.28,0.03,0.0,Accrual Risk,Liquidating Assets
+IRFC,Mar 2017,-19453.0,-215.64,0.02,0.0,Accrual Risk,Liquidating Assets
+IRFC,Mar 2018,-28074.0,-304.19,0.02,0.0,Accrual Risk,Liquidating Assets
+IRFC,Mar 2019,-41747.0,-376.61,0.01,0.0,Accrual Risk,Liquidating Assets
+IRFC,Mar 2020,-62700.0,-469.49,0.01,0.0,Accrual Risk,Liquidating Assets
+IRFC,Mar 2021,-89907.0,-574.23,0.0,0.0,Accrual Risk,Growth Funded by Debt
+IRFC,Mar 2022,-64417.0,-319.26,0.02,0.0,Accrual Risk,Growth Funded by Debt
+IRFC,Mar 2023,-28588.0,-121.2,0.0,0.0,Accrual Risk,Growth Funded by Debt
+IRFC,Mar 2024,7906.0,29.82,0.03,100.0,High Quality,Cash Accumulator
+IRFC,TTM,,,,100.0,Accrual Risk,Mixed
+ITC,Mar 2013,3221.0,28.71,12.27,92.19,Moderate,Cash Accumulator
+ITC,Mar 2014,4090.0,31.27,9.22,81.59,Moderate,Cash Accumulator
+ITC,Mar 2015,4568.0,32.05,13.59,100.0,High Quality,Cash Accumulator
+ITC,Mar 2016,5878.0,40.45,10.0,100.0,High Quality,Cash Accumulator
+ITC,Mar 2017,7376.0,47.68,7.6,100.0,High Quality,Cash Accumulator
+ITC,Mar 2018,6055.0,36.65,16.37,100.0,High Quality,Cash Accumulator
+ITC,Mar 2019,7037.0,37.96,11.47,98.03,Moderate,Cash Accumulator
+ITC,Mar 2020,8516.0,44.02,12.5,94.21,Moderate,Cash Accumulator
+ITC,Mar 2021,18267.0,107.04,11.65,93.6,Moderate,Reinvestor
+ITC,Mar 2022,13538.0,65.65,3.69,100.0,High Quality,Cash Accumulator
+ITC,Mar 2023,13146.0,51.14,8.08,96.92,Moderate,Cash Accumulator
+ITC,Mar 2024,18742.0,71.44,2.21,82.79,Moderate,Reinvestor
+ITC,TTM,,,,100.0,Accrual Risk,Mixed
+JINDALSTEL,Mar 2013,-6069.0,-99.39,48.42,100.0,High Quality,Growth Funded by Debt
+JINDALSTEL,Mar 2014,-8114.0,-139.92,65.82,100.0,High Quality,Growth Funded by Debt
+JINDALSTEL,Mar 2015,-5535.0,-101.3,34.62,0.0,Accrual Risk,Pre-Revenue
+JINDALSTEL,Mar 2016,2071.0,60.26,11.62,0.0,Accrual Risk,Pre-Revenue
+JINDALSTEL,Mar 2017,4852.0,103.04,9.25,0.0,Accrual Risk,Pre-Revenue
+JINDALSTEL,Mar 2018,6293.0,97.28,4.3,0.0,Accrual Risk,Pre-Revenue
+JINDALSTEL,Mar 2019,8195.0,97.42,1.77,0.0,Accrual Risk,Pre-Revenue
+JINDALSTEL,Mar 2020,7338.0,107.42,3.89,0.0,Accrual Risk,Pre-Revenue
+JINDALSTEL,Mar 2021,10077.0,92.17,5.45,100.0,High Quality,Cash Accumulator
+JINDALSTEL,Mar 2022,13717.0,88.41,4.56,100.0,High Quality,Cash Accumulator
+JINDALSTEL,Mar 2023,3257.0,32.76,7.69,100.0,High Quality,Cash Accumulator
+JINDALSTEL,Mar 2024,-2336.0,-22.9,16.57,100.0,High Quality,Growth Funded by Debt
+JINDALSTEL,TTM,,,,100.0,Accrual Risk,Mixed
+JIOFIN,Mar 2023,945.0,2423.08,2466.67,100.0,High Quality,Cash Accumulator
+JIOFIN,Mar 2024,763.0,48.94,77.68,0.0,Accrual Risk,Reinvestor
+JIOFIN,TTM,,,,100.0,Accrual Risk,Mixed
+JSWENERGY,Mar 2013,781.0,27.88,10.64,100.0,High Quality,Cash Accumulator
+JSWENERGY,Mar 2014,1906.0,58.56,4.2,100.0,High Quality,Cash Accumulator
+JSWENERGY,Mar 2015,2972.0,82.01,4.51,100.0,High Quality,Cash Accumulator
+JSWENERGY,Mar 2016,266.0,6.6,33.31,100.0,High Quality,Cash Accumulator
+JSWENERGY,Mar 2017,3091.0,92.99,9.22,100.0,High Quality,Cash Accumulator
+JSWENERGY,Mar 2018,3719.0,137.08,2.67,100.0,High Quality,Cash Accumulator
+JSWENERGY,Mar 2019,2436.0,85.32,0.6,100.0,High Quality,Cash Accumulator
+JSWENERGY,Mar 2020,2383.0,80.59,3.64,100.0,High Quality,Reinvestor
+JSWENERGY,Mar 2021,2670.0,91.66,14.88,100.0,High Quality,Cash Accumulator
+JSWENERGY,Mar 2022,1565.0,43.81,16.98,100.0,High Quality,Cash Accumulator
+JSWENERGY,Mar 2023,-4694.0,-143.02,65.6,100.0,High Quality,Growth Funded by Debt
+JSWENERGY,Mar 2024,-1963.0,-36.47,71.37,100.0,High Quality,Growth Funded by Debt
+JSWENERGY,TTM,,,,100.0,Accrual Risk,Mixed
+JSWSTEEL,Mar 2013,411.0,6.31,14.22,100.0,High Quality,Cash Accumulator
+JSWSTEEL,Mar 2014,-3024.0,-32.98,10.97,100.0,High Quality,Growth Funded by Debt
+JSWSTEEL,Mar 2015,504.0,5.38,13.92,100.0,High Quality,Cash Accumulator
+JSWSTEEL,Mar 2016,3040.0,47.34,9.28,0.0,Accrual Risk,Pre-Revenue
+JSWSTEEL,Mar 2017,2794.0,22.7,9.16,100.0,High Quality,Cash Accumulator
+JSWSTEEL,Mar 2018,7850.0,52.63,6.3,100.0,High Quality,Cash Accumulator
+JSWSTEEL,Mar 2019,3246.0,17.15,13.43,100.0,High Quality,Shareholder Returns
+JSWSTEEL,Mar 2020,-6804.0,-57.6,26.71,100.0,High Quality,Growth Funded by Debt
+JSWSTEEL,Mar 2021,11087.0,54.95,9.65,100.0,High Quality,Cash Accumulator
+JSWSTEEL,Mar 2022,11522.0,29.46,10.08,100.0,High Quality,Cash Accumulator
+JSWSTEEL,Mar 2023,12593.0,68.18,6.47,100.0,High Quality,Cash Accumulator
+JSWSTEEL,Mar 2024,-2389.0,-8.48,8.27,100.0,High Quality,Mixed
+JSWSTEEL,TTM,,,,100.0,Accrual Risk,Mixed
+KOTAKBANK,Mar 2013,-6157.0,-93.25,83.36,100.0,High Quality,Growth Funded by Debt
+KOTAKBANK,Mar 2014,7938.0,112.55,9.43,100.0,High Quality,Cash Accumulator
+KOTAKBANK,Mar 2015,-2165.0,-22.28,33.54,74.14,Moderate,Growth Funded by Debt
+KOTAKBANK,Mar 2016,2672.0,23.15,11.53,100.0,High Quality,Shareholder Returns
+KOTAKBANK,Mar 2017,7933.0,53.49,23.69,100.0,High Quality,Shareholder Returns
+KOTAKBANK,Mar 2018,-15867.0,-94.42,21.79,0.0,Accrual Risk,Growth Funded by Debt
+KOTAKBANK,Mar 2019,-1501.0,-7.6,11.14,25.29,Accrual Risk,Growth Funded by Debt
+KOTAKBANK,Mar 2020,33551.0,148.6,39.04,100.0,High Quality,Cash Accumulator
+KOTAKBANK,Mar 2021,-6291.0,-21.1,34.04,48.86,Accrual Risk,Mixed
+KOTAKBANK,Mar 2022,-2595.0,-8.45,32.31,68.72,Moderate,Growth Funded by Debt
+KOTAKBANK,Mar 2023,-11623.0,-34.71,24.63,0.0,Accrual Risk,Growth Funded by Debt
+KOTAKBANK,Mar 2024,6766.0,14.38,15.86,86.12,Moderate,Shareholder Returns
+KOTAKBANK,TTM,,,,100.0,Accrual Risk,Mixed
+LICI,Mar 2019,22910.0,386.99,1.69,100.0,High Quality,Reinvestor
+LICI,Mar 2020,13952.0,-200.83,6.44,100.0,High Quality,Cash Accumulator
+LICI,Mar 2021,229049.0,-90892.46,21.49,100.0,High Quality,Reinvestor
+LICI,Mar 2022,8748.0,263.02,1.73,0.0,Accrual Risk,Mixed
+LICI,Mar 2023,1671.0,4.88,6.74,100.0,High Quality,Cash Accumulator
+LICI,Mar 2024,853.0,2.6,2.99,63.84,Moderate,Cash Accumulator
+LICI,TTM,,,,100.0,Accrual Risk,Mixed
+LODHA,Mar 2011,,,,100.0,Accrual Risk,Mixed
+LODHA,Mar 2012,,,,100.0,Accrual Risk,Mixed
+LODHA,Mar 2015,,,,100.0,Accrual Risk,Mixed
+LODHA,Mar 2016,-467.0,-21.97,10.35,55.05,Moderate,Growth Funded by Debt
+LODHA,Mar 2017,295.0,18.28,14.81,100.0,High Quality,Cash Accumulator
+LODHA,Mar 2018,45.0,2.68,6.73,87.66,Moderate,Shareholder Returns
+LODHA,Mar 2019,-638.0,-20.07,1.47,0.0,Accrual Risk,Growth Funded by Debt
+LODHA,Mar 2020,3954.0,206.26,1.46,100.0,High Quality,Reinvestor
+LODHA,Mar 2021,2944.0,212.87,7.71,100.0,High Quality,Reinvestor
+LODHA,Mar 2022,3137.0,143.5,12.34,100.0,High Quality,Reinvestor
+LODHA,Mar 2023,4539.0,219.91,18.89,100.0,High Quality,Reinvestor
+LODHA,Mar 2024,-435.0,-16.32,28.57,100.0,High Quality,Growth Funded by Debt
+LODHA,TTM,,,,100.0,Accrual Risk,Mixed
+LT,Mar 2013,-11277.0,-98.97,9.3,0.0,Accrual Risk,Growth Funded by Debt
+LT,Mar 2014,-12653.0,-89.83,6.48,0.0,Accrual Risk,Growth Funded by Debt
+LT,Mar 2015,-6143.0,-39.17,5.2,0.0,Accrual Risk,Growth Funded by Debt
+LT,Mar 2016,-7867.0,-50.8,4.58,0.0,Accrual Risk,Growth Funded by Debt
+LT,Mar 2017,-3141.0,-18.9,8.96,100.0,High Quality,Growth Funded by Debt
+LT,Mar 2018,-6117.0,-30.42,3.27,0.0,Accrual Risk,Liquidating Assets
+LT,Mar 2019,-15779.0,-69.01,8.15,0.0,Accrual Risk,Growth Funded by Debt
+LT,Mar 2020,-1714.0,-6.98,5.78,61.45,Moderate,Growth Funded by Debt
+LT,Mar 2021,17324.0,73.84,4.23,100.0,High Quality,Cash Accumulator
+LT,Mar 2022,15579.0,64.07,2.29,100.0,High Quality,Cash Accumulator
+LT,Mar 2023,14729.0,54.22,4.39,100.0,High Quality,Cash Accumulator
+LT,Mar 2024,20445.0,68.46,0.99,100.0,High Quality,Reinvestor
+LT,TTM,,,,100.0,Accrual Risk,Mixed
+LTIM,Mar 2013,384.0,44.14,5.82,100.0,High Quality,Cash Accumulator
+LTIM,Mar 2014,808.0,70.44,3.66,63.05,Moderate,Reinvestor
+LTIM,Mar 2015,539.0,53.63,2.07,83.49,Moderate,Cash Accumulator
+LTIM,Mar 2016,818.0,79.57,0.68,100.0,High Quality,Cash Accumulator
+LTIM,Mar 2017,209.0,16.99,14.78,100.0,High Quality,Cash Accumulator
+LTIM,Mar 2018,392.0,33.02,6.19,75.9,Moderate,Cash Accumulator
+LTIM,Mar 2019,646.0,34.31,7.93,92.02,Moderate,Cash Accumulator
+LTIM,Mar 2020,1001.0,49.33,5.91,100.0,High Quality,Cash Accumulator
+LTIM,Mar 2021,743.0,27.27,13.4,100.0,High Quality,Cash Accumulator
+LTIM,Mar 2022,1608.0,30.63,6.29,82.3,Moderate,Cash Accumulator
+LTIM,Mar 2023,2824.0,46.23,0.82,70.18,Moderate,Cash Accumulator
+LTIM,Mar 2024,1752.0,27.43,11.03,100.0,High Quality,Cash Accumulator
+LTIM,TTM,,,,100.0,Accrual Risk,Mixed
+M&M,Mar 2013,-3825.0,-41.96,4.23,0.0,Accrual Risk,Growth Funded by Debt
+M&M,Mar 2014,-4768.0,-46.88,6.11,0.0,Accrual Risk,Growth Funded by Debt
+M&M,Mar 2015,-3302.0,-37.55,6.1,31.2,Accrual Risk,Growth Funded by Debt
+M&M,Mar 2016,-3121.0,-30.96,7.26,67.11,Moderate,Growth Funded by Debt
+M&M,Mar 2017,-5692.0,-53.02,7.01,4.52,Accrual Risk,Growth Funded by Debt
+M&M,Mar 2018,-4785.0,-36.18,5.94,8.57,Accrual Risk,Growth Funded by Debt
+M&M,Mar 2019,-11521.0,-75.76,6.85,0.0,Accrual Risk,Growth Funded by Debt
+M&M,Mar 2020,-8327.0,-81.97,9.11,100.0,High Quality,Pre-Revenue
+M&M,Mar 2021,-1777.0,-15.47,26.5,100.0,High Quality,Growth Funded by Debt
+M&M,Mar 2022,5996.0,40.84,3.61,100.0,High Quality,Cash Accumulator
+M&M,Mar 2023,-15940.0,-78.58,7.31,0.0,Accrual Risk,Growth Funded by Debt
+M&M,Mar 2024,-11245.0,-45.18,4.04,0.0,Accrual Risk,Growth Funded by Debt
+M&M,TTM,,,,100.0,Accrual Risk,Mixed
+MARUTI,Mar 2013,940.0,21.55,7.04,100.0,High Quality,Cash Accumulator
+MARUTI,Mar 2014,-2.0,-0.04,11.22,100.0,High Quality,Mixed
+MARUTI,Mar 2015,1958.0,28.41,8.84,100.0,High Quality,Cash Accumulator
+MARUTI,Mar 2016,1252.0,13.87,12.55,100.0,High Quality,Cash Accumulator
+MARUTI,Mar 2017,1109.0,10.64,13.47,100.0,High Quality,Cash Accumulator
+MARUTI,Mar 2018,3486.0,28.77,10.4,100.0,High Quality,Cash Accumulator
+MARUTI,Mar 2019,3061.0,27.69,4.11,86.28,Moderate,Cash Accumulator
+MARUTI,Mar 2020,2939.0,39.96,0.74,61.57,Moderate,Cash Accumulator
+MARUTI,Mar 2021,1565.0,28.92,10.36,100.0,High Quality,Cash Accumulator
+MARUTI,Mar 2022,1601.0,27.83,0.27,47.42,Accrual Risk,Cash Accumulator
+MARUTI,Mar 2023,1995.0,15.2,7.45,100.0,High Quality,Cash Accumulator
+MARUTI,Mar 2024,4936.0,26.5,8.36,100.0,High Quality,Cash Accumulator
+MARUTI,TTM,,,,100.0,Accrual Risk,Mixed
+MOTHERSON,Mar 2013,397.0,26.82,4.3,100.0,High Quality,Cash Accumulator
+MOTHERSON,Mar 2014,1323.0,55.19,4.51,100.0,High Quality,Cash Accumulator
+MOTHERSON,Mar 2015,546.0,19.2,8.21,100.0,High Quality,Shareholder Returns
+MOTHERSON,Mar 2016,282.0,7.95,5.12,100.0,High Quality,Cash Accumulator
+MOTHERSON,Mar 2017,-2345.0,-56.22,14.5,100.0,High Quality,Growth Funded by Debt
+MOTHERSON,Mar 2018,70.0,1.37,5.67,100.0,High Quality,Cash Accumulator
+MOTHERSON,Mar 2019,994.0,18.59,5.22,100.0,High Quality,Cash Accumulator
+MOTHERSON,Mar 2020,4132.0,88.78,3.66,100.0,High Quality,Cash Accumulator
+MOTHERSON,Mar 2021,3165.0,72.43,3.29,100.0,High Quality,Cash Accumulator
+MOTHERSON,Mar 2022,159.0,3.37,3.61,100.0,High Quality,Cash Accumulator
+MOTHERSON,Mar 2023,2395.0,38.31,2.85,100.0,High Quality,Cash Accumulator
+MOTHERSON,Mar 2024,925.0,9.92,6.73,100.0,High Quality,Shareholder Returns
+MOTHERSON,TTM,,,,100.0,Accrual Risk,Mixed
+NAUKRI,Mar 2013,29.0,23.97,9.75,98.68,Moderate,Cash Accumulator
+NAUKRI,Mar 2014,-123.0,-126.8,35.98,100.0,High Quality,Growth Funded by Debt
+NAUKRI,Mar 2015,-1000.0,-4761.9,143.58,0.0,Accrual Risk,Pre-Revenue
+NAUKRI,Mar 2016,76.0,83.52,0.27,66.1,Moderate,Cash Accumulator
+NAUKRI,Mar 2017,48.0,-533.33,18.58,0.0,Accrual Risk,Pre-Revenue
+NAUKRI,Mar 2018,104.0,47.49,15.08,50.5,Moderate,Cash Accumulator
+NAUKRI,Mar 2019,217.0,2411.11,5.13,46.62,Accrual Risk,Cash Accumulator
+NAUKRI,Mar 2020,447.0,-127.71,7.39,0.0,Accrual Risk,Pre-Revenue
+NAUKRI,Mar 2021,-1767.0,-2387.84,181.12,19.46,Accrual Risk,Growth Funded by Debt
+NAUKRI,Mar 2022,-470.0,-105.38,74.07,5.49,Accrual Risk,Growth Funded by Debt
+NAUKRI,Mar 2023,154.0,44.25,15.26,0.0,Accrual Risk,Pre-Revenue
+NAUKRI,Mar 2024,-150.0,-21.1,33.6,100.0,High Quality,Growth Funded by Debt
+NAUKRI,TTM,,,,100.0,Accrual Risk,Mixed
+NESTLEIND,Dec 2013,1355.0,69.56,4.85,100.0,High Quality,Cash Accumulator
+NESTLEIND,Dec 2014,1212.0,59.44,4.38,100.0,High Quality,Cash Accumulator
+NESTLEIND,Dec 2015,1028.0,66.11,0.86,100.0,High Quality,Cash Accumulator
+NESTLEIND,Dec 2016,1340.0,72.43,1.38,100.0,High Quality,Cash Accumulator
+NESTLEIND,Dec 2017,1687.0,80.45,1.31,100.0,High Quality,Cash Accumulator
+NESTLEIND,Dec 2018,2000.0,76.39,0.46,100.0,High Quality,Cash Accumulator
+NESTLEIND,Dec 2019,2378.0,81.27,0.67,100.0,High Quality,Reinvestor
+NESTLEIND,Dec 2020,2133.0,66.61,2.4,100.0,High Quality,Cash Accumulator
+NESTLEIND,Dec 2021,316.0,8.87,13.02,100.0,High Quality,Cash Accumulator
+NESTLEIND,Dec 2022,2345.0,63.28,2.32,100.0,High Quality,Cash Accumulator
+NESTLEIND,Dec 2023,2465.0,55.13,4.85,100.0,High Quality,Cash Accumulator
+NESTLEIND,Mar 2024,2938.0,50.54,5.07,100.0,High Quality,Cash Accumulator
+NESTLEIND,TTM,,,,100.0,Accrual Risk,Mixed
+NHPC,Mar 2013,1516.0,36.51,20.84,99.06,Moderate,Cash Accumulator
+NHPC,Mar 2014,2702.0,62.23,15.18,100.0,High Quality,Cash Accumulator
+NHPC,Mar 2015,3293.0,64.14,9.34,100.0,High Quality,Cash Accumulator
+NHPC,Mar 2016,5225.0,109.24,8.93,100.0,High Quality,Cash Accumulator
+NHPC,Mar 2017,6465.0,132.37,21.62,100.0,High Quality,Cash Accumulator
+NHPC,Mar 2018,3810.0,89.69,11.42,100.0,High Quality,Cash Accumulator
+NHPC,Mar 2019,2642.0,53.04,13.16,100.0,High Quality,Cash Accumulator
+NHPC,Mar 2020,6.0,0.11,29.85,89.48,Moderate,Shareholder Returns
+NHPC,Mar 2021,3463.0,65.62,16.66,100.0,High Quality,Cash Accumulator
+NHPC,Mar 2022,1506.0,37.53,33.73,100.0,High Quality,Cash Accumulator
+NHPC,Mar 2023,514.0,8.31,39.51,100.0,High Quality,Cash Accumulator
+NHPC,Mar 2024,970.0,20.18,61.96,100.0,High Quality,Cash Accumulator
+NHPC,TTM,,,,100.0,Accrual Risk,Mixed
+NTPC,Mar 2013,-337.0,-1.86,23.55,100.0,High Quality,Growth Funded by Debt
+NTPC,Mar 2014,1022.0,5.18,19.8,100.0,High Quality,Cash Accumulator
+NTPC,Mar 2015,-1088.0,-6.27,19.98,100.0,High Quality,Mixed
+NTPC,Mar 2016,4963.0,26.73,26.11,100.0,High Quality,Cash Accumulator
+NTPC,Mar 2017,-4313.0,-19.97,29.84,100.0,High Quality,Growth Funded by Debt
+NTPC,Mar 2018,-1008.0,-4.48,23.48,100.0,High Quality,Growth Funded by Debt
+NTPC,Mar 2019,-5377.0,-23.68,23.99,100.0,High Quality,Growth Funded by Debt
+NTPC,Mar 2020,-5738.0,-18.17,27.07,100.0,High Quality,Growth Funded by Debt
+NTPC,Mar 2021,11410.0,33.52,18.86,100.0,High Quality,Cash Accumulator
+NTPC,Mar 2022,18897.0,46.82,17.25,100.0,High Quality,Cash Accumulator
+NTPC,Mar 2023,21007.0,44.14,14.84,100.0,High Quality,Cash Accumulator
+NTPC,Mar 2024,8644.0,16.8,18.01,100.0,High Quality,Cash Accumulator
+NTPC,TTM,,,,100.0,Accrual Risk,Mixed
+ONGC,Mar 2013,-1346.0,-3.09,25.45,100.0,High Quality,Mixed
+ONGC,Mar 2014,-10363.0,-21.09,36.55,100.0,High Quality,Growth Funded by Debt
+ONGC,Mar 2015,3892.0,9.2,18.68,100.0,High Quality,Cash Accumulator
+ONGC,Mar 2016,8036.0,20.53,30.84,100.0,High Quality,Cash Accumulator
+ONGC,Mar 2017,1965.0,3.72,15.51,100.0,High Quality,Cash Accumulator
+ONGC,Mar 2018,-10006.0,-17.59,20.7,100.0,High Quality,Growth Funded by Debt
+ONGC,Mar 2019,24326.0,32.51,8.81,100.0,High Quality,Cash Accumulator
+ONGC,Mar 2020,17434.0,33.46,13.4,100.0,High Quality,Cash Accumulator
+ONGC,Mar 2021,8044.0,16.26,12.88,100.0,High Quality,Cash Accumulator
+ONGC,Mar 2022,37051.0,46.39,8.39,100.0,High Quality,Cash Accumulator
+ONGC,Mar 2023,11372.0,15.06,11.81,100.0,High Quality,Cash Accumulator
+ONGC,Mar 2024,42060.0,40.9,9.67,100.0,High Quality,Cash Accumulator
+ONGC,TTM,,,,100.0,Accrual Risk,Mixed
+PFC,Mar 2013,-25080.0,-418.91,0.13,0.0,Accrual Risk,Liquidating Assets
+PFC,Mar 2014,-22464.0,-295.31,0.04,0.0,Accrual Risk,Liquidating Assets
+PFC,Mar 2015,-21946.0,-260.36,1.96,0.0,Accrual Risk,Growth Funded by Debt
+PFC,Mar 2016,-15271.0,-166.68,7.08,0.0,Accrual Risk,Growth Funded by Debt
+PFC,Mar 2017,1128.0,21.38,2.42,80.28,Moderate,Shareholder Returns
+PFC,Mar 2018,-55739.0,-474.29,2.9,0.0,Accrual Risk,Liquidating Assets
+PFC,Mar 2019,-93715.0,-526.99,24.88,0.0,Accrual Risk,Growth Funded by Debt
+PFC,Mar 2020,-42221.0,-301.32,0.12,0.0,Accrual Risk,Growth Funded by Debt
+PFC,Mar 2021,-57402.0,-288.87,2.43,0.0,Accrual Risk,Liquidating Assets
+PFC,Mar 2022,4357.0,18.67,0.72,26.13,Accrual Risk,Cash Accumulator
+PFC,Mar 2023,-76411.0,-288.33,2.18,0.0,Accrual Risk,Growth Funded by Debt
+PFC,Mar 2024,-101229.0,-301.52,3.73,0.0,Accrual Risk,Growth Funded by Debt
+PFC,TTM,,,,100.0,Accrual Risk,Mixed
+PIDILITIND,Mar 2013,328.0,58.78,3.92,100.0,High Quality,Cash Accumulator
+PIDILITIND,Mar 2014,295.0,43.9,2.31,87.56,Moderate,Cash Accumulator
+PIDILITIND,Mar 2015,116.0,15.05,9.0,100.0,High Quality,Cash Accumulator
+PIDILITIND,Mar 2016,416.0,35.46,9.16,100.0,High Quality,Cash Accumulator
+PIDILITIND,Mar 2017,-85.0,-6.74,15.65,92.0,Moderate,Growth Funded by Debt
+PIDILITIND,Mar 2018,835.0,62.27,0.64,82.4,Moderate,Reinvestor
+PIDILITIND,Mar 2019,332.0,24.22,7.25,91.06,Moderate,Cash Accumulator
+PIDILITIND,Mar 2020,1383.0,87.75,1.41,100.0,High Quality,Reinvestor
+PIDILITIND,Mar 2021,-296.0,-17.56,23.15,100.0,High Quality,Mixed
+PIDILITIND,Mar 2022,397.0,21.39,5.62,79.12,Moderate,Cash Accumulator
+PIDILITIND,Mar 2023,659.0,33.18,7.62,100.0,High Quality,Cash Accumulator
+PIDILITIND,Mar 2024,955.0,35.27,14.29,100.0,High Quality,Cash Accumulator
+PIDILITIND,TTM,,,,100.0,Accrual Risk,Mixed
+PNB,Mar 2013,-1292.0,,1.39,0.0,Accrual Risk,Mixed
+PNB,Mar 2013,-1292.0,,1.39,0.0,Accrual Risk,Mixed
+PNB,Mar 2013,-1292.0,,1.39,0.0,Accrual Risk,Mixed
+PNB,Mar 2013,-1292.0,,1.39,0.0,Accrual Risk,Mixed
+PNB,Mar 2013,-1292.0,,1.39,0.0,Accrual Risk,Mixed
+PNB,Mar 2014,16604.0,,0.67,100.0,High Quality,Shareholder Returns
+PNB,Mar 2014,16604.0,,0.67,100.0,High Quality,Shareholder Returns
+PNB,Mar 2014,16604.0,,0.67,100.0,High Quality,Shareholder Returns
+PNB,Mar 2014,16604.0,,0.67,100.0,High Quality,Shareholder Returns
+PNB,Mar 2014,16604.0,,0.67,100.0,High Quality,Shareholder Returns
+PNB,Mar 2015,3942.0,,1.79,100.0,High Quality,Shareholder Returns
+PNB,Mar 2015,3942.0,,1.79,100.0,High Quality,Shareholder Returns
+PNB,Mar 2015,3942.0,,1.79,100.0,High Quality,Shareholder Returns
+PNB,Mar 2015,3942.0,,1.79,100.0,High Quality,Shareholder Returns
+PNB,Mar 2015,3942.0,,1.79,100.0,High Quality,Shareholder Returns
+PNB,Mar 2016,12815.0,,2.66,0.0,Accrual Risk,Pre-Revenue
+PNB,Mar 2016,12815.0,,2.66,0.0,Accrual Risk,Pre-Revenue
+PNB,Mar 2016,12815.0,,2.66,0.0,Accrual Risk,Pre-Revenue
+PNB,Mar 2016,12815.0,,2.66,0.0,Accrual Risk,Pre-Revenue
+PNB,Mar 2016,12815.0,,2.66,0.0,Accrual Risk,Pre-Revenue
+PNB,Mar 2017,22097.0,,0.33,100.0,High Quality,Reinvestor
+PNB,Mar 2017,22097.0,,0.33,100.0,High Quality,Reinvestor
+PNB,Mar 2017,22097.0,,0.33,100.0,High Quality,Reinvestor
+PNB,Mar 2017,22097.0,,0.33,100.0,High Quality,Reinvestor
+PNB,Mar 2017,22097.0,,0.33,100.0,High Quality,Reinvestor
+PNB,Mar 2018,-1350.0,,0.8,14.38,Accrual Risk,Pre-Revenue
+PNB,Mar 2018,-1350.0,,0.8,14.38,Accrual Risk,Pre-Revenue
+PNB,Mar 2018,-1350.0,,0.8,14.38,Accrual Risk,Pre-Revenue
+PNB,Mar 2018,-1350.0,,0.8,14.38,Accrual Risk,Pre-Revenue
+PNB,Mar 2018,-1350.0,,0.8,14.38,Accrual Risk,Pre-Revenue
+PNB,Mar 2019,-34161.0,,1.21,100.0,High Quality,Pre-Revenue
+PNB,Mar 2019,-34161.0,,1.21,100.0,High Quality,Pre-Revenue
+PNB,Mar 2019,-34161.0,,1.21,100.0,High Quality,Pre-Revenue
+PNB,Mar 2019,-34161.0,,1.21,100.0,High Quality,Pre-Revenue
+PNB,Mar 2019,-34161.0,,1.21,100.0,High Quality,Pre-Revenue
+PNB,Mar 2020,-13131.0,,0.62,0.0,Accrual Risk,Growth Funded by Debt
+PNB,Mar 2020,-13131.0,,0.62,0.0,Accrual Risk,Growth Funded by Debt
+PNB,Mar 2020,-13131.0,,0.62,0.0,Accrual Risk,Growth Funded by Debt
+PNB,Mar 2020,-13131.0,,0.62,0.0,Accrual Risk,Growth Funded by Debt
+PNB,Mar 2020,-13131.0,,0.62,0.0,Accrual Risk,Growth Funded by Debt
+PNB,Mar 2021,30163.0,,0.96,100.0,High Quality,Shareholder Returns
+PNB,Mar 2021,30163.0,,0.96,100.0,High Quality,Shareholder Returns
+PNB,Mar 2021,30163.0,,0.96,100.0,High Quality,Shareholder Returns
+PNB,Mar 2021,30163.0,,0.96,100.0,High Quality,Shareholder Returns
+PNB,Mar 2021,30163.0,,0.96,100.0,High Quality,Shareholder Returns
+PNB,Mar 2022,18828.0,,1.58,100.0,High Quality,Shareholder Returns
+PNB,Mar 2022,18828.0,,1.58,100.0,High Quality,Shareholder Returns
+PNB,Mar 2022,18828.0,,1.58,100.0,High Quality,Shareholder Returns
+PNB,Mar 2022,18828.0,,1.58,100.0,High Quality,Shareholder Returns
+PNB,Mar 2022,18828.0,,1.58,100.0,High Quality,Shareholder Returns
+PNB,Mar 2023,21860.0,,0.84,100.0,High Quality,Shareholder Returns
+PNB,Mar 2023,21860.0,,0.84,100.0,High Quality,Shareholder Returns
+PNB,Mar 2023,21860.0,,0.84,100.0,High Quality,Shareholder Returns
+PNB,Mar 2023,21860.0,,0.84,100.0,High Quality,Shareholder Returns
+PNB,Mar 2023,21860.0,,0.84,100.0,High Quality,Shareholder Returns
+PNB,Mar 2024,-29445.0,,1.38,0.0,Accrual Risk,Growth Funded by Debt
+PNB,Mar 2024,-29445.0,,1.38,0.0,Accrual Risk,Growth Funded by Debt
+PNB,Mar 2024,-29445.0,,1.38,0.0,Accrual Risk,Growth Funded by Debt
+PNB,Mar 2024,-29445.0,,1.38,0.0,Accrual Risk,Growth Funded by Debt
+PNB,Mar 2024,-29445.0,,1.38,0.0,Accrual Risk,Growth Funded by Debt
+PNB,TTM,,,,100.0,Accrual Risk,Mixed
+POWERGRID,Mar 2013,-10394.0,-95.91,168.83,100.0,High Quality,Growth Funded by Debt
+POWERGRID,Mar 2013,-10394.0,-95.91,168.83,100.0,High Quality,Growth Funded by Debt
+POWERGRID,Mar 2014,-11416.0,-88.04,171.26,100.0,High Quality,Growth Funded by Debt
+POWERGRID,Mar 2014,-11416.0,-88.04,171.26,100.0,High Quality,Growth Funded by Debt
+POWERGRID,Mar 2015,-8385.0,-56.17,137.88,100.0,High Quality,Growth Funded by Debt
+POWERGRID,Mar 2015,-8385.0,-56.17,137.88,100.0,High Quality,Growth Funded by Debt
+POWERGRID,Mar 2016,-6568.0,-36.12,104.47,100.0,High Quality,Growth Funded by Debt
+POWERGRID,Mar 2016,-6568.0,-36.12,104.47,100.0,High Quality,Growth Funded by Debt
+POWERGRID,Mar 2017,-2261.0,-10.07,92.76,100.0,High Quality,Growth Funded by Debt
+POWERGRID,Mar 2017,-2261.0,-10.07,92.76,100.0,High Quality,Growth Funded by Debt
+POWERGRID,Mar 2018,-2991.0,-11.52,85.8,100.0,High Quality,Growth Funded by Debt
+POWERGRID,Mar 2018,-2991.0,-11.52,85.8,100.0,High Quality,Growth Funded by Debt
+POWERGRID,Mar 2019,4544.0,16.88,53.42,100.0,High Quality,Cash Accumulator
+POWERGRID,Mar 2019,4544.0,16.88,53.42,100.0,High Quality,Cash Accumulator
+POWERGRID,Mar 2020,20006.0,60.83,28.44,100.0,High Quality,Cash Accumulator
+POWERGRID,Mar 2020,20006.0,60.83,28.44,100.0,High Quality,Cash Accumulator
+POWERGRID,Mar 2021,20159.0,57.75,23.32,100.0,High Quality,Cash Accumulator
+POWERGRID,Mar 2021,20159.0,57.75,23.32,100.0,High Quality,Cash Accumulator
+POWERGRID,Mar 2022,26877.0,75.02,1.81,100.0,High Quality,Reinvestor
+POWERGRID,Mar 2022,26877.0,75.02,1.81,100.0,High Quality,Reinvestor
+POWERGRID,Mar 2023,33065.0,83.55,15.65,100.0,High Quality,Cash Accumulator
+POWERGRID,Mar 2023,33065.0,83.55,15.65,100.0,High Quality,Cash Accumulator
+POWERGRID,Mar 2024,24176.0,60.7,28.61,100.0,High Quality,Cash Accumulator
+POWERGRID,Mar 2024,24176.0,60.7,28.61,100.0,High Quality,Cash Accumulator
+POWERGRID,TTM,,,,100.0,Accrual Risk,Mixed
+RECLTD,Mar 2013,-19907.0,-150.02,1.11,0.0,Accrual Risk,Liquidating Assets
+RECLTD,Mar 2014,-17108.0,-102.75,0.79,0.0,Accrual Risk,Liquidating Assets
+RECLTD,Mar 2015,-23747.0,-122.44,0.74,0.0,Accrual Risk,Liquidating Assets
+RECLTD,Mar 2016,-14034.0,-62.53,3.13,0.0,Accrual Risk,Growth Funded by Debt
+RECLTD,Mar 2017,6704.0,29.86,0.41,100.0,High Quality,Cash Accumulator
+RECLTD,Mar 2018,-32464.0,-168.39,0.2,0.0,Accrual Risk,Liquidating Assets
+RECLTD,Mar 2019,-35409.0,-149.37,1.8,0.0,Accrual Risk,Liquidating Assets
+RECLTD,Mar 2020,-32591.0,-125.54,0.4,0.0,Accrual Risk,Liquidating Assets
+RECLTD,Mar 2021,-42651.0,-132.19,2.42,0.0,Accrual Risk,Liquidating Assets
+RECLTD,Mar 2022,-1106.0,-3.21,0.73,0.0,Accrual Risk,Growth Funded by Debt
+RECLTD,Mar 2023,-38303.0,-101.79,2.39,0.0,Accrual Risk,Growth Funded by Debt
+RECLTD,Mar 2024,-59554.0,-124.37,3.85,0.0,Accrual Risk,Growth Funded by Debt
+RECLTD,TTM,,,,100.0,Accrual Risk,Mixed
+RELIANCE,Mar 2013,9317.0,28.1,6.97,100.0,High Quality,Shareholder Returns
+RELIANCE,Mar 2014,-29809.0,-85.33,16.86,100.0,High Quality,Growth Funded by Debt
+RELIANCE,Mar 2015,-30332.0,-81.0,17.28,100.0,High Quality,Growth Funded by Debt
+RELIANCE,Mar 2016,1948.0,4.66,13.28,100.0,High Quality,Cash Accumulator
+RELIANCE,Mar 2017,-16651.0,-35.96,21.78,100.0,High Quality,Growth Funded by Debt
+RELIANCE,Mar 2018,3267.0,5.08,17.45,100.0,High Quality,Cash Accumulator
+RELIANCE,Mar 2019,-52161.0,-61.91,16.63,100.0,High Quality,Growth Funded by Debt
+RELIANCE,Mar 2020,22380.0,25.07,12.15,100.0,High Quality,Cash Accumulator
+RELIANCE,Mar 2021,-115427.0,-142.87,30.53,50.16,Moderate,Growth Funded by Debt
+RELIANCE,Mar 2022,1492.0,1.37,15.71,100.0,High Quality,Shareholder Returns
+RELIANCE,Mar 2023,22031.0,15.48,10.61,100.0,High Quality,Shareholder Returns
+RELIANCE,Mar 2024,45207.0,27.82,12.63,100.0,High Quality,Cash Accumulator
+RELIANCE,TTM,,,,100.0,Accrual Risk,Mixed
+SBILIFE,Mar 2013,903.0,211.48,1.53,100.0,High Quality,Cash Accumulator
+SBILIFE,Mar 2014,-542.0,-106.07,4.1,22.8,Accrual Risk,Mixed
+SBILIFE,Mar 2015,2533.0,319.02,0.76,100.0,High Quality,Cash Accumulator
+SBILIFE,Mar 2016,-1426.0,-155.0,37.28,100.0,High Quality,Mixed
+SBILIFE,Mar 2017,-507.0,-47.47,29.57,100.0,High Quality,Mixed
+SBILIFE,Mar 2018,1485.0,111.49,26.15,100.0,High Quality,Cash Accumulator
+SBILIFE,Mar 2019,-79.0,-5.36,30.38,100.0,High Quality,Mixed
+SBILIFE,Mar 2020,2313.0,171.21,38.78,100.0,High Quality,Cash Accumulator
+SBILIFE,Mar 2021,4675.0,536.12,23.44,100.0,High Quality,Shareholder Returns
+SBILIFE,Mar 2022,241.0,33.01,26.04,100.0,High Quality,Cash Accumulator
+SBILIFE,Mar 2023,-1547.0,-1268.03,37.46,100.0,High Quality,Mixed
+SBILIFE,Mar 2024,-2099.0,-853.25,23.65,100.0,High Quality,Mixed
+SBILIFE,TTM,,,,100.0,Accrual Risk,Mixed
+SBIN,Mar 2013,22061.0,-430.54,1.35,100.0,High Quality,Cash Accumulator
+SBIN,Mar 2014,18351.0,-125.57,0.42,100.0,High Quality,Shareholder Returns
+SBIN,Mar 2015,22873.0,-104.54,1.65,100.0,High Quality,Cash Accumulator
+SBIN,Mar 2016,11730.0,-36.2,1.25,100.0,High Quality,Shareholder Returns
+SBIN,Mar 2017,72834.0,-113.21,1.98,0.0,Accrual Risk,Pre-Revenue
+SBIN,Mar 2018,-83455.0,96.26,5.7,100.0,High Quality,Pre-Revenue
+SBIN,Mar 2019,29776.0,-43.37,0.09,100.0,High Quality,Mixed
+SBIN,Mar 2020,23374.0,-36.42,0.21,100.0,High Quality,Shareholder Returns
+SBIN,Mar 2021,86249.0,-121.97,1.32,100.0,High Quality,Shareholder Returns
+SBIN,Mar 2022,55043.0,-86.59,0.91,100.0,High Quality,Cash Accumulator
+SBIN,Mar 2023,-86980.0,200.23,0.28,0.0,Accrual Risk,Growth Funded by Debt
+SBIN,Mar 2024,18156.0,-30.11,0.79,31.11,Accrual Risk,Cash Accumulator
+SBIN,TTM,,,,100.0,Accrual Risk,Mixed
+SHREECEM,Jun 2013,990.0,63.42,4.98,100.0,High Quality,Cash Accumulator
+SHREECEM,Jun 2014,167.0,12.01,21.59,100.0,High Quality,Cash Accumulator
+SHREECEM,Jun 2015,249.0,18.53,15.82,100.0,High Quality,Cash Accumulator
+SHREECEM,Mar 2016 9m,,,,100.0,Accrual Risk,Mixed
+SHREECEM,Mar 2017,154.0,6.13,23.83,100.0,High Quality,Cash Accumulator
+SHREECEM,Mar 2018,-1716.0,-69.39,36.56,100.0,High Quality,Growth Funded by Debt
+SHREECEM,Mar 2019,1360.0,48.62,5.73,100.0,High Quality,Cash Accumulator
+SHREECEM,Mar 2020,-1617.0,-42.88,43.44,100.0,High Quality,Growth Funded by Debt
+SHREECEM,Mar 2021,1603.0,39.18,19.55,100.0,High Quality,Cash Accumulator
+SHREECEM,Mar 2022,525.0,14.15,14.28,100.0,High Quality,Cash Accumulator
+SHREECEM,Mar 2023,164.0,5.54,13.47,100.0,High Quality,Cash Accumulator
+SHREECEM,Mar 2024,1929.0,42.7,6.91,100.0,High Quality,Cash Accumulator
+SHREECEM,TTM,,,,100.0,Accrual Risk,Mixed
+SHRIRAMFIN,Mar 2013,-8400.0,-385.5,0.58,0.0,Accrual Risk,Growth Funded by Debt
+SHRIRAMFIN,Mar 2014,-4167.0,-208.45,1.32,0.0,Accrual Risk,Growth Funded by Debt
+SHRIRAMFIN,Mar 2015,-9656.0,-571.02,0.49,0.0,Accrual Risk,Growth Funded by Debt
+SHRIRAMFIN,Mar 2016,-5543.0,-303.89,0.35,0.0,Accrual Risk,Growth Funded by Debt
+SHRIRAMFIN,Mar 2017,-2679.0,-135.85,0.02,0.0,Accrual Risk,Growth Funded by Debt
+SHRIRAMFIN,Mar 2018,-13056.0,-343.13,0.64,0.0,Accrual Risk,Liquidating Assets
+SHRIRAMFIN,Mar 2019,-5611.0,-147.62,0.49,0.0,Accrual Risk,Growth Funded by Debt
+SHRIRAMFIN,Mar 2020,-2519.0,-70.66,0.33,0.0,Accrual Risk,Growth Funded by Debt
+SHRIRAMFIN,Mar 2021,-4264.0,-125.34,0.14,0.0,Accrual Risk,Growth Funded by Debt
+SHRIRAMFIN,Mar 2022,-8893.0,-242.58,0.18,0.0,Accrual Risk,Growth Funded by Debt
+SHRIRAMFIN,Mar 2023,-12549.0,-142.62,16.65,0.0,Accrual Risk,Liquidating Assets
+SHRIRAMFIN,Mar 2024,-31359.0,-298.0,0.71,0.0,Accrual Risk,Growth Funded by Debt
+SHRIRAMFIN,TTM,,,,100.0,Accrual Risk,Mixed
+SIEMENS,Sep 2011,267.0,22.8,2.21,0.35,Accrual Risk,Reinvestor
+SIEMENS,Sep 2014,738.0,620.17,1.22,100.0,High Quality,Reinvestor
+SIEMENS,Sep 2015,1220.0,122.24,6.12,48.89,Accrual Risk,Reinvestor
+SIEMENS,Sep 2016,750.0,73.46,2.19,17.6,Accrual Risk,Reinvestor
+SIEMENS,Sep 2017,1894.0,179.36,11.94,50.4,Moderate,Reinvestor
+SIEMENS,Sep 2018,-74.0,-5.58,1.36,11.1,Accrual Risk,Mixed
+SIEMENS,Sep 2019,138.0,9.26,8.67,100.0,High Quality,Cash Accumulator
+SIEMENS,Sep 2020,1591.0,158.62,8.76,93.63,Moderate,Reinvestor
+SIEMENS,Sep 2021,-967.0,-66.6,18.1,100.0,High Quality,Mixed
+SIEMENS,Sep 2022,944.0,50.75,0.21,63.38,Moderate,Cash Accumulator
+SIEMENS,Sep 2023,641.0,25.77,3.88,71.36,Moderate,Cash Accumulator
+SIEMENS,Sep 2024,1168.0,37.63,2.26,61.44,Moderate,Cash Accumulator
+SUNPHARMA,Mar 2013,982.0,20.53,21.34,96.77,Moderate,Cash Accumulator
+SUNPHARMA,Mar 2014,1783.0,25.46,13.53,100.0,High Quality,Shareholder Returns
+SUNPHARMA,Mar 2015,4114.0,52.12,5.48,100.0,High Quality,Cash Accumulator
+SUNPHARMA,Mar 2016,2737.0,33.48,13.86,100.0,High Quality,Cash Accumulator
+SUNPHARMA,Mar 2017,2896.0,28.67,13.26,90.26,Moderate,Cash Accumulator
+SUNPHARMA,Mar 2018,803.0,14.26,11.72,100.0,High Quality,Cash Accumulator
+SUNPHARMA,Mar 2019,1886.0,29.58,1.07,68.45,Moderate,Cash Accumulator
+SUNPHARMA,Mar 2020,4330.0,62.01,6.78,100.0,High Quality,Cash Accumulator
+SUNPHARMA,Mar 2021,6577.0,77.65,1.21,100.0,High Quality,Reinvestor
+SUNPHARMA,Mar 2022,3429.0,33.43,14.37,100.0,High Quality,Cash Accumulator
+SUNPHARMA,Mar 2023,-2261.0,-19.41,16.45,58.25,Moderate,Growth Funded by Debt
+SUNPHARMA,Mar 2024,11372.0,87.36,1.57,100.0,High Quality,Cash Accumulator
+SUNPHARMA,TTM,,,,100.0,Accrual Risk,Mixed
+TATACONSUM,Mar 2013,197.0,25.58,0.33,38.88,Accrual Risk,Mixed
+TATACONSUM,Mar 2014,421.0,55.98,0.01,82.75,Moderate,Cash Accumulator
+TATACONSUM,Mar 2015,211.0,26.64,2.59,100.0,High Quality,Cash Accumulator
+TATACONSUM,Mar 2016,261.0,71.31,2.18,0.0,Accrual Risk,Pre-Revenue
+TATACONSUM,Mar 2017,886.0,112.01,2.14,100.0,High Quality,Reinvestor
+TATACONSUM,Mar 2018,325.0,38.74,0.45,64.03,Moderate,Cash Accumulator
+TATACONSUM,Mar 2019,263.0,33.46,0.73,45.95,Accrual Risk,Reinvestor
+TATACONSUM,Mar 2020,460.0,35.6,6.45,100.0,High Quality,Cash Accumulator
+TATACONSUM,Mar 2021,1310.0,84.84,2.98,100.0,High Quality,Cash Accumulator
+TATACONSUM,Mar 2022,199.0,11.58,10.6,100.0,High Quality,Cash Accumulator
+TATACONSUM,Mar 2023,627.0,33.78,6.05,100.0,High Quality,Cash Accumulator
+TATACONSUM,Mar 2024,26.0,1.14,12.57,100.0,High Quality,Shareholder Returns
+TATACONSUM,TTM,,,,100.0,Accrual Risk,Mixed
+TATAMOTORS,Mar 2013,-806.0,-3.28,12.17,100.0,High Quality,Mixed
+TATAMOTORS,Mar 2014,8160.0,23.41,12.02,100.0,High Quality,Cash Accumulator
+TATAMOTORS,Mar 2015,-701.0,-1.79,13.77,100.0,High Quality,Growth Funded by Debt
+TATAMOTORS,Mar 2016,1206.0,3.14,13.44,100.0,High Quality,Cash Accumulator
+TATAMOTORS,Mar 2017,-9372.0,-31.67,14.67,100.0,High Quality,Growth Funded by Debt
+TATAMOTORS,Mar 2018,-1282.0,-4.08,8.62,100.0,High Quality,Growth Funded by Debt
+TATAMOTORS,Mar 2019,-1987.0,-8.06,6.91,0.0,Accrual Risk,Pre-Revenue
+TATAMOTORS,Mar 2020,-6482.0,-36.04,12.68,0.0,Accrual Risk,Pre-Revenue
+TATAMOTORS,Mar 2021,3329.0,10.31,10.28,0.0,Accrual Risk,Pre-Revenue
+TATAMOTORS,Mar 2022,9839.0,39.8,1.6,0.0,Accrual Risk,Pre-Revenue
+TATAMOTORS,Mar 2023,19971.0,62.77,4.46,100.0,High Quality,Cash Accumulator
+TATAMOTORS,Mar 2024,45133.0,75.81,5.2,100.0,High Quality,Cash Accumulator
+TATAMOTORS,TTM,,,,100.0,Accrual Risk,Mixed
+TATAPOWER,Mar 2013,-740.0,-13.23,12.13,100.0,High Quality,Mixed
+TATAPOWER,Mar 2014,2874.0,41.56,10.1,100.0,High Quality,Cash Accumulator
+TATAPOWER,Mar 2015,2116.0,33.58,11.51,100.0,High Quality,Cash Accumulator
+TATAPOWER,Mar 2016,5610.0,266.51,6.12,100.0,High Quality,Cash Accumulator
+TATAPOWER,Mar 2017,-359.0,-6.56,26.73,100.0,High Quality,Growth Funded by Debt
+TATAPOWER,Mar 2018,4852.0,211.42,5.63,100.0,High Quality,Cash Accumulator
+TATAPOWER,Mar 2019,4302.0,140.13,0.91,100.0,High Quality,Cash Accumulator
+TATAPOWER,Mar 2020,6882.0,101.13,1.69,100.0,High Quality,Cash Accumulator
+TATAPOWER,Mar 2021,9338.0,134.92,3.04,100.0,High Quality,Reinvestor
+TATAPOWER,Mar 2022,443.0,6.3,14.6,100.0,High Quality,Cash Accumulator
+TATAPOWER,Mar 2023,-97.0,-1.26,13.18,100.0,High Quality,Growth Funded by Debt
+TATAPOWER,Mar 2024,3569.0,33.25,14.69,100.0,High Quality,Cash Accumulator
+TATAPOWER,TTM,,,,100.0,Accrual Risk,Mixed
+TATASTEEL,Mar 2013,936.0,23.61,9.72,0.0,Accrual Risk,Pre-Revenue
+TATASTEEL,Mar 2014,-2232.0,-13.79,10.35,100.0,High Quality,Growth Funded by Debt
+TATASTEEL,Mar 2015,2859.0,83.87,6.47,0.0,Accrual Risk,Pre-Revenue
+TATASTEEL,Mar 2016,2661.0,-425.76,8.62,0.0,Accrual Risk,Pre-Revenue
+TATASTEEL,Mar 2017,1334.0,10.15,8.45,0.0,Accrual Risk,Pre-Revenue
+TATASTEEL,Mar 2018,-3707.0,-17.3,9.52,45.22,Accrual Risk,Growth Funded by Debt
+TATASTEEL,Mar 2019,-3840.0,-13.1,18.5,100.0,High Quality,Mixed
+TATASTEEL,Mar 2020,6157.0,35.26,10.02,100.0,High Quality,Cash Accumulator
+TATASTEEL,Mar 2021,34890.0,114.38,6.04,100.0,High Quality,Cash Accumulator
+TATASTEEL,Mar 2022,33476.0,52.73,4.47,100.0,High Quality,Cash Accumulator
+TATASTEEL,Mar 2023,3504.0,10.85,7.47,100.0,High Quality,Cash Accumulator
+TATASTEEL,Mar 2024,6048.0,27.18,6.22,0.0,Accrual Risk,Pre-Revenue
+TATASTEEL,TTM,,,,100.0,Accrual Risk,Mixed
+TCS,Mar 2013,5577.0,30.91,9.59,82.52,Moderate,Cash Accumulator
+TCS,Mar 2014,5299.0,21.07,11.55,76.3,Moderate,Cash Accumulator
+TCS,Mar 2015,17562.0,71.73,1.91,96.56,Moderate,Cash Accumulator
+TCS,Mar 2016,14099.0,45.96,4.61,78.52,Moderate,Cash Accumulator
+TCS,Mar 2017,8328.0,25.77,14.32,95.7,Moderate,Cash Accumulator
+TCS,Mar 2018,28171.0,86.64,2.52,96.86,Moderate,Reinvestor
+TCS,Mar 2019,30238.0,76.54,1.12,90.59,Moderate,Reinvestor
+TCS,Mar 2020,41337.0,98.17,5.71,99.76,Moderate,Reinvestor
+TCS,Mar 2021,30846.0,66.27,4.85,100.0,High Quality,Cash Accumulator
+TCS,Mar 2022,39211.0,73.9,0.38,100.0,High Quality,Cash Accumulator
+TCS,Mar 2023,42513.0,71.74,0.24,99.2,Moderate,Reinvestor
+TCS,Mar 2024,50429.0,78.43,2.53,96.18,Moderate,Reinvestor
+TCS,TTM,,,,100.0,Accrual Risk,Mixed
+TECHM,Mar 2013,233.0,16.39,9.05,65.42,Moderate,Shareholder Returns
+TECHM,Mar 2013,233.0,16.39,9.05,65.42,Moderate,Shareholder Returns
+TECHM,Mar 2014,1887.0,45.23,1.55,52.12,Moderate,Reinvestor
+TECHM,Mar 2014,1887.0,45.23,1.55,52.12,Moderate,Reinvestor
+TECHM,Mar 2015,583.0,13.9,8.24,92.06,Moderate,Cash Accumulator
+TECHM,Mar 2015,583.0,13.9,8.24,92.06,Moderate,Cash Accumulator
+TECHM,Mar 2016,1684.0,39.53,5.48,100.0,High Quality,Cash Accumulator
+TECHM,Mar 2016,1684.0,39.53,5.48,100.0,High Quality,Cash Accumulator
+TECHM,Mar 2017,1178.0,28.15,9.93,100.0,High Quality,Cash Accumulator
+TECHM,Mar 2017,1178.0,28.15,9.93,100.0,High Quality,Cash Accumulator
+TECHM,Mar 2018,235.0,4.99,10.79,93.87,Moderate,Cash Accumulator
+TECHM,Mar 2018,235.0,4.99,10.79,93.87,Moderate,Cash Accumulator
+TECHM,Mar 2019,2328.0,37.12,6.06,100.0,High Quality,Cash Accumulator
+TECHM,Mar 2019,2328.0,37.12,6.06,100.0,High Quality,Cash Accumulator
+TECHM,Mar 2020,5439.0,98.84,2.93,100.0,High Quality,Reinvestor
+TECHM,Mar 2020,5439.0,98.84,2.93,100.0,High Quality,Reinvestor
+TECHM,Mar 2021,2661.0,39.16,14.35,100.0,High Quality,Cash Accumulator
+TECHM,Mar 2021,2661.0,39.16,14.35,100.0,High Quality,Cash Accumulator
+TECHM,Mar 2022,5765.0,71.88,1.08,93.87,Moderate,Reinvestor
+TECHM,Mar 2022,5765.0,71.88,1.08,93.87,Moderate,Reinvestor
+TECHM,Mar 2023,5346.0,68.87,0.42,100.0,High Quality,Cash Accumulator
+TECHM,Mar 2023,5346.0,68.87,0.42,100.0,High Quality,Cash Accumulator
+TECHM,Mar 2024,5058.0,112.25,2.53,100.0,High Quality,Cash Accumulator
+TECHM,Mar 2024,5058.0,112.25,2.53,100.0,High Quality,Cash Accumulator
+TECHM,TTM,,,,100.0,Accrual Risk,Mixed
+TITAN,Mar 2013,411.0,40.53,1.4,76.28,Moderate,Cash Accumulator
+TITAN,Mar 2014,-826.0,-78.89,2.48,0.0,Accrual Risk,Growth Funded by Debt
+TITAN,Mar 2015,385.0,33.39,0.99,61.64,Moderate,Cash Accumulator
+TITAN,Mar 2016,417.0,44.41,1.41,85.33,Moderate,Cash Accumulator
+TITAN,Mar 2017,759.0,65.21,7.19,100.0,High Quality,Cash Accumulator
+TITAN,Mar 2018,47.0,2.86,0.61,0.0,Accrual Risk,Reinvestor
+TITAN,Mar 2019,446.0,22.37,4.03,89.49,Moderate,Cash Accumulator
+TITAN,Mar 2020,-113.0,-4.59,1.12,0.0,Accrual Risk,Liquidating Assets
+TITAN,Mar 2021,1340.0,77.68,12.93,100.0,High Quality,Cash Accumulator
+TITAN,Mar 2022,441.0,13.19,4.05,0.0,Accrual Risk,Reinvestor
+TITAN,Mar 2023,-444.0,-9.09,4.47,41.84,Accrual Risk,Growth Funded by Debt
+TITAN,Mar 2024,1506.0,28.46,0.37,48.48,Accrual Risk,Cash Accumulator
+TITAN,TTM,,,,100.0,Accrual Risk,Mixed
+TORNTPHARM,Mar 2013,-94.0,-13.49,7.71,35.17,Accrual Risk,Growth Funded by Debt
+TORNTPHARM,Mar 2014,181.0,18.95,10.02,90.21,Moderate,Shareholder Returns
+TORNTPHARM,Mar 2015,-1303.0,-127.75,45.58,100.0,High Quality,Growth Funded by Debt
+TORNTPHARM,Mar 2016,1873.0,68.53,13.0,100.0,High Quality,Cash Accumulator
+TORNTPHARM,Mar 2017,211.0,15.32,13.72,100.0,High Quality,Cash Accumulator
+TORNTPHARM,Mar 2018,-3783.0,-280.43,78.61,100.0,High Quality,Growth Funded by Debt
+TORNTPHARM,Mar 2019,1552.0,78.27,3.21,100.0,High Quality,Cash Accumulator
+TORNTPHARM,Mar 2020,1622.0,74.75,2.88,100.0,High Quality,Reinvestor
+TORNTPHARM,Mar 2021,1561.0,62.94,5.55,100.0,High Quality,Cash Accumulator
+TORNTPHARM,Mar 2022,1607.0,66.1,2.3,100.0,High Quality,Cash Accumulator
+TORNTPHARM,Mar 2023,33.0,1.16,24.27,100.0,High Quality,Shareholder Returns
+TORNTPHARM,Mar 2024,3106.0,92.22,1.49,100.0,High Quality,Cash Accumulator
+TORNTPHARM,TTM,,,,100.0,Accrual Risk,Mixed
+TRENT,Mar 2013,-245.0,-4900.0,12.95,0.0,Accrual Risk,Pre-Revenue
+TRENT,Mar 2014,-94.0,940.0,2.06,100.0,High Quality,Pre-Revenue
+TRENT,Mar 2015,-316.0,-359.09,13.4,0.0,Accrual Risk,Growth Funded by Debt
+TRENT,Mar 2016,11.0,12.22,5.81,100.0,High Quality,Cash Accumulator
+TRENT,Mar 2017,58.0,43.28,2.43,100.0,High Quality,Cash Accumulator
+TRENT,Mar 2018,73.0,35.1,0.19,88.51,Moderate,Cash Accumulator
+TRENT,Mar 2019,-16.0,-6.64,1.41,22.11,Accrual Risk,Growth Funded by Debt
+TRENT,Mar 2020,-448.0,-84.69,23.21,100.0,High Quality,Growth Funded by Debt
+TRENT,Mar 2021,303.0,265.79,0.69,0.0,Accrual Risk,Pre-Revenue
+TRENT,Mar 2022,114.0,19.16,1.24,100.0,High Quality,Reinvestor
+TRENT,Mar 2023,492.0,44.17,1.25,100.0,High Quality,Cash Accumulator
+TRENT,Mar 2024,841.0,42.67,4.11,91.33,Moderate,Cash Accumulator
+TRENT,TTM,,,,100.0,Accrual Risk,Mixed
+TVSMOTOR,Mar 2013,344.0,78.54,1.6,100.0,High Quality,Cash Accumulator
+TVSMOTOR,Mar 2014,235.0,47.76,2.8,100.0,High Quality,Cash Accumulator
+TVSMOTOR,Mar 2015,-332.0,-54.88,4.05,25.3,Accrual Risk,Growth Funded by Debt
+TVSMOTOR,Mar 2016,331.0,40.42,5.32,100.0,High Quality,Cash Accumulator
+TVSMOTOR,Mar 2017,-20.0,-2.3,5.69,100.0,High Quality,Mixed
+TVSMOTOR,Mar 2018,-741.0,-47.17,6.7,53.23,Moderate,Growth Funded by Debt
+TVSMOTOR,Mar 2019,-2022.0,-93.48,5.48,0.0,Accrual Risk,Growth Funded by Debt
+TVSMOTOR,Mar 2020,-717.0,-31.67,5.78,57.65,Moderate,Growth Funded by Debt
+TVSMOTOR,Mar 2021,269.0,12.05,4.54,100.0,High Quality,Shareholder Returns
+TVSMOTOR,Mar 2022,-3046.0,-110.56,6.04,0.0,Accrual Risk,Growth Funded by Debt
+TVSMOTOR,Mar 2023,-5713.0,-141.87,4.09,0.0,Accrual Risk,Growth Funded by Debt
+TVSMOTOR,Mar 2024,-2254.0,-40.98,2.56,0.0,Accrual Risk,Growth Funded by Debt
+TVSMOTOR,TTM,,,,100.0,Accrual Risk,Mixed
+ULTRACEMCO,Mar 2013,-744.0,-15.38,21.26,100.0,High Quality,Growth Funded by Debt
+ULTRACEMCO,Mar 2014,1113.0,27.58,11.3,100.0,High Quality,Cash Accumulator
+ULTRACEMCO,Mar 2015,2046.0,46.24,9.2,100.0,High Quality,Cash Accumulator
+ULTRACEMCO,Mar 2016,853.0,17.4,14.6,100.0,High Quality,Cash Accumulator
+ULTRACEMCO,Mar 2017,2504.0,48.04,9.86,100.0,High Quality,Cash Accumulator
+ULTRACEMCO,Mar 2018,5754.0,93.64,6.02,100.0,High Quality,Reinvestor
+ULTRACEMCO,Mar 2019,7121.0,96.92,2.81,100.0,High Quality,Reinvestor
+ULTRACEMCO,Mar 2020,4780.0,51.7,9.88,100.0,High Quality,Cash Accumulator
+ULTRACEMCO,Mar 2021,3644.0,31.5,19.8,100.0,High Quality,Cash Accumulator
+ULTRACEMCO,Mar 2022,11540.0,100.23,4.29,100.0,High Quality,Reinvestor
+ULTRACEMCO,Mar 2023,1881.0,17.71,11.37,100.0,High Quality,Cash Accumulator
+ULTRACEMCO,Mar 2024,2109.0,16.26,12.39,100.0,High Quality,Cash Accumulator
+ULTRACEMCO,TTM,,,,100.0,Accrual Risk,Mixed
+UNIONBANK,Mar 2013,-4588.0,-1411.69,1.36,0.0,Accrual Risk,Growth Funded by Debt
+UNIONBANK,Mar 2014,2207.0,-244.68,1.23,100.0,High Quality,Shareholder Returns
+UNIONBANK,Mar 2015,-3885.0,399.28,0.99,0.0,Accrual Risk,Growth Funded by Debt
+UNIONBANK,Mar 2016,72.0,-3.73,0.03,6.01,Accrual Risk,Cash Accumulator
+UNIONBANK,Mar 2017,-6904.0,142.94,0.85,0.0,Accrual Risk,Growth Funded by Debt
+UNIONBANK,Mar 2018,5782.0,-49.42,0.96,0.0,Accrual Risk,Pre-Revenue
+UNIONBANK,Mar 2019,-8075.0,93.88,0.87,100.0,High Quality,Pre-Revenue
+UNIONBANK,Mar 2020,-81.0,0.85,0.01,2.47,Accrual Risk,Pre-Revenue
+UNIONBANK,Mar 2021,19926.0,-179.98,0.87,100.0,High Quality,Cash Accumulator
+UNIONBANK,Mar 2022,35781.0,-849.3,0.82,100.0,High Quality,Cash Accumulator
+UNIONBANK,Mar 2023,3495.0,-115.58,3.16,71.15,Moderate,Cash Accumulator
+UNIONBANK,Mar 2024,18536.0,403.83,1.39,100.0,High Quality,Cash Accumulator
+UNIONBANK,TTM,,,,100.0,Accrual Risk,Mixed
+UNITDSPR,Mar 2013,848.0,77.73,10.8,0.0,Accrual Risk,Pre-Revenue
+UNITDSPR,Mar 2014,-804.0,23.87,2.4,12.3,Accrual Risk,Pre-Revenue
+UNITDSPR,Mar 2015,3659.0,-999.73,41.66,11.62,Accrual Risk,Pre-Revenue
+UNITDSPR,Mar 2016,1016.0,305.11,8.63,100.0,High Quality,Reinvestor
+UNITDSPR,Mar 2017,420.0,42.38,2.57,100.0,High Quality,Cash Accumulator
+UNITDSPR,Mar 2018,1029.0,85.11,1.21,100.0,High Quality,Reinvestor
+UNITDSPR,Mar 2019,882.0,63.27,0.71,100.0,High Quality,Cash Accumulator
+UNITDSPR,Mar 2020,589.0,37.54,2.08,100.0,High Quality,Cash Accumulator
+UNITDSPR,Mar 2021,1719.0,163.56,1.22,100.0,High Quality,Cash Accumulator
+UNITDSPR,Mar 2022,664.0,41.63,3.22,100.0,High Quality,Cash Accumulator
+UNITDSPR,Mar 2023,560.0,39.52,0.52,54.62,Moderate,Cash Accumulator
+UNITDSPR,Mar 2024,1344.0,67.2,2.0,79.4,Moderate,Reinvestor
+UNITDSPR,TTM,,,,100.0,Accrual Risk,Mixed
+VBL,Dec 2012,-227.0,-99.56,28.17,100.0,High Quality,Growth Funded by Debt
+VBL,Dec 2013,-277.0,-95.19,27.14,0.0,Accrual Risk,Pre-Revenue
+VBL,Dec 2014,-69.0,-17.83,19.98,0.0,Accrual Risk,Pre-Revenue
+VBL,Dec 2015,255.0,39.72,8.84,100.0,High Quality,Cash Accumulator
+VBL,Dec 2016,-222.0,-27.41,27.14,100.0,High Quality,Growth Funded by Debt
+VBL,Dec 2017,-126.0,-15.04,18.63,100.0,High Quality,Growth Funded by Debt
+VBL,Dec 2018,63.0,6.08,18.35,100.0,High Quality,Cash Accumulator
+VBL,Dec 2019,-1012.0,-69.22,32.54,100.0,High Quality,Growth Funded by Debt
+VBL,Dec 2020,540.0,44.44,7.32,100.0,High Quality,Cash Accumulator
+VBL,Dec 2021,223.0,13.16,11.42,100.0,High Quality,Cash Accumulator
+VBL,Dec 2022,21.0,0.73,13.43,100.0,High Quality,Cash Accumulator
+VBL,Dec 2023,-897.0,-24.13,20.49,100.0,High Quality,Growth Funded by Debt
+VBL,TTM,,,,100.0,Accrual Risk,Mixed
+VEDL,Mar 2013,-289.0,-62.15,11.31,0.96,Accrual Risk,Growth Funded by Debt
+VEDL,Mar 2014,12711.0,64.87,4.37,100.0,High Quality,Cash Accumulator
+VEDL,Mar 2015,13672.0,61.83,5.61,0.0,Accrual Risk,Pre-Revenue
+VEDL,Mar 2016,12509.0,-67.69,12.24,0.0,Accrual Risk,Pre-Revenue
+VEDL,Mar 2017,20764.0,97.14,3.71,100.0,High Quality,Reinvestor
+VEDL,Mar 2018,32846.0,132.03,16.85,100.0,High Quality,Reinvestor
+VEDL,Mar 2019,13160.0,56.8,11.51,100.0,High Quality,Cash Accumulator
+VEDL,Mar 2020,13375.0,64.48,7.02,0.0,Accrual Risk,Pre-Revenue
+VEDL,Mar 2021,17302.0,63.34,7.59,100.0,High Quality,Cash Accumulator
+VEDL,Mar 2022,32720.0,73.0,1.69,100.0,High Quality,Cash Accumulator
+VEDL,Mar 2023,32397.0,94.09,0.45,100.0,High Quality,Cash Accumulator
+VEDL,Mar 2024,21978.0,62.24,9.52,100.0,High Quality,Cash Accumulator
+VEDL,TTM,,,,100.0,Accrual Risk,Mixed
+WIPRO,Mar 2013,1858.0,24.27,12.12,100.0,High Quality,Cash Accumulator
+WIPRO,Mar 2014,6506.0,67.52,0.65,84.97,Moderate,Cash Accumulator
+WIPRO,Mar 2015,5303.0,51.49,5.4,89.97,Moderate,Cash Accumulator
+WIPRO,Mar 2016,-5874.0,-54.41,26.85,88.05,Moderate,Mixed
+WIPRO,Mar 2017,-2493.0,-22.02,21.23,100.0,High Quality,Mixed
+WIPRO,Mar 2018,12018.0,115.7,6.6,100.0,High Quality,Reinvestor
+WIPRO,Mar 2019,16697.0,143.78,8.58,100.0,High Quality,Reinvestor
+WIPRO,Mar 2020,13657.0,110.65,5.88,100.0,High Quality,Reinvestor
+WIPRO,Mar 2021,15440.0,104.53,1.11,100.0,High Quality,Reinvestor
+WIPRO,Mar 2022,-11241.0,-67.38,28.14,90.5,Moderate,Growth Funded by Debt
+WIPRO,Mar 2023,4891.0,29.05,9.03,100.0,High Quality,Cash Accumulator
+WIPRO,Mar 2024,18766.0,112.02,1.27,100.0,High Quality,Reinvestor
+WIPRO,TTM,,,,100.0,Accrual Risk,Mixed
+ZOMATO,Mar 2018,,,,100.0,Accrual Risk,Pre-Revenue
+ZOMATO,Mar 2019,,,,100.0,Accrual Risk,Pre-Revenue
+ZOMATO,Mar 2020,-404.0,17.53,66.79,89.86,Moderate,Pre-Revenue
+ZOMATO,Mar 2021,-6263.0,1341.11,263.04,100.0,High Quality,Pre-Revenue
+ZOMATO,Mar 2022,-8664.0,468.07,190.15,56.71,Moderate,Pre-Revenue
+ZOMATO,Mar 2023,-47.0,3.88,11.26,86.92,Moderate,Pre-Revenue
+ZOMATO,Mar 2024,298.0,693.02,2.87,100.0,High Quality,Cash Accumulator
+ZOMATO,TTM,,,,100.0,Accrual Risk,Mixed
+ZYDUSLIFE,Mar 2013,-79.0,-6.99,10.73,87.39,Moderate,Growth Funded by Debt
+ZYDUSLIFE,Mar 2014,465.0,38.65,6.06,100.0,High Quality,Cash Accumulator
+ZYDUSLIFE,Mar 2015,529.0,30.13,5.38,83.67,Moderate,Cash Accumulator
+ZYDUSLIFE,Mar 2016,1034.0,44.34,9.12,96.44,Moderate,Cash Accumulator
+ZYDUSLIFE,Mar 2017,-1560.0,-82.02,30.63,86.49,Moderate,Growth Funded by Debt
+ZYDUSLIFE,Mar 2018,-55.0,-1.94,8.18,50.77,Moderate,Growth Funded by Debt
+ZYDUSLIFE,Mar 2019,-2695.0,-90.1,30.21,67.51,Moderate,Growth Funded by Debt
+ZYDUSLIFE,Mar 2020,1928.0,68.91,7.04,100.0,High Quality,Cash Accumulator
+ZYDUSLIFE,Mar 2021,2457.0,72.46,5.81,100.0,High Quality,Cash Accumulator
+ZYDUSLIFE,Mar 2022,1086.0,32.5,6.74,45.56,Accrual Risk,Cash Accumulator
+ZYDUSLIFE,Mar 2023,4231.0,109.61,8.95,100.0,High Quality,Reinvestor
+ZYDUSLIFE,Mar 2024,1736.0,32.24,7.63,81.25,Moderate,Cash Accumulator
+ZYDUSLIFE,TTM,,,,100.0,Accrual Risk,Mixed
+INDIGO,Mar 2013,-149.0,-1.78,20.54,100.0,High Quality,Growth Funded by Debt
+INDIGO,Mar 2014,-1319.0,-12.35,26.21,100.0,High Quality,Growth Funded by Debt
+INDIGO,Mar 2015,1444.0,12.01,6.75,100.0,High Quality,Cash Accumulator
+INDIGO,Mar 2016,1779.0,13.71,8.28,100.0,High Quality,Cash Accumulator
+INDIGO,Mar 2017,749.0,4.58,16.32,100.0,High Quality,Cash Accumulator
+INDIGO,Mar 2018,-249.0,-1.25,18.04,100.0,High Quality,Growth Funded by Debt
+INDIGO,Mar 2019,634.0,2.21,8.86,100.0,High Quality,Cash Accumulator
+INDIGO,Mar 2020,2370.0,7.48,12.79,0.0,Accrual Risk,Pre-Revenue
+INDIGO,Mar 2021,1608.0,10.99,22.05,26.25,Accrual Risk,Pre-Revenue
+INDIGO,Mar 2022,3591.0,14.15,5.89,0.0,Accrual Risk,Pre-Revenue
+INDIGO,Mar 2023,8664.0,18.08,7.42,0.0,Accrual Risk,Pre-Revenue
+INDIGO,Mar 2024,9424.0,17.93,17.07,100.0,High Quality,Cash Accumulator
+INDIGO,TTM,,,,100.0,Accrual Risk,Mixed

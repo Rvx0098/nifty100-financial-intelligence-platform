@@ -1,0 +1,27 @@
+Ratio Edge Case Review
+=====================
+Financial sector carve-outs: suppress leverage warnings for banks, NBFCs and insurers.
+Total financial sector records analyzed: 329
+ROE/ROCE comparison rows: 294
+
+Top differences:
+- AXISBANK | Axis Bank Ltd | Financials | ROE computed=15.62 vs imported=15.62 | ROCE computed=2.52 vs imported=2.52
+- AXISBANK | Axis Bank Ltd | Financials | ROE computed=16.19 vs imported=16.19 | ROCE computed=2.59 vs imported=2.59
+- AXISBANK | Axis Bank Ltd | Financials | ROE computed=16.37 vs imported=16.37 | ROCE computed=2.46 vs imported=2.46
+- AXISBANK | Axis Bank Ltd | Financials | ROE computed=15.36 vs imported=15.36 | ROCE computed=2.54 vs imported=2.54
+- AXISBANK | Axis Bank Ltd | Financials | ROE computed=6.53 vs imported=6.53 | ROCE computed=4.08 vs imported=4.08
+- AXISBANK | Axis Bank Ltd | Financials | ROE computed=0.43 vs imported=0.43 | ROCE computed=4.28 vs imported=4.28
+- AXISBANK | Axis Bank Ltd | Financials | ROE computed=6.9 vs imported=6.9 | ROCE computed=3.48 vs imported=3.48
+- AXISBANK | Axis Bank Ltd | Financials | ROE computed=1.88 vs imported=1.88 | ROCE computed=3.97 vs imported=3.97
+- AXISBANK | Axis Bank Ltd | Financials | ROE computed=6.36 vs imported=6.36 | ROCE computed=3.33 vs imported=3.33
+- AXISBANK | Axis Bank Ltd | Financials | ROE computed=11.01 vs imported=11.01 | ROCE computed=2.63 vs imported=2.63
+- AXISBANK | Axis Bank Ltd | Financials | ROE computed=7.38 vs imported=7.38 | ROCE computed=2.27 vs imported=2.27
+- AXISBANK | Axis Bank Ltd | Financials | ROE computed=15.83 vs imported=15.83 | ROCE computed=2.61 vs imported=2.61
+- BAJAJFINSV | Bajaj Finserv Ltd | Financials | ROE computed=28.38 vs imported=28.38 | ROCE computed=18.91 vs imported=18.91
+- BAJAJFINSV | Bajaj Finserv Ltd | Financials | ROE computed=23.53 vs imported=23.53 | ROCE computed=15.58 vs imported=15.58
+- BAJAJFINSV | Bajaj Finserv Ltd | Financials | ROE computed=21.72 vs imported=21.72 | ROCE computed=14.73 vs imported=14.73
+- BAJAJFINSV | Bajaj Finserv Ltd | Financials | ROE computed=20.41 vs imported=20.41 | ROCE computed=13.57 vs imported=13.57
+- BAJAJFINSV | Bajaj Finserv Ltd | Financials | ROE computed=21.36 vs imported=21.36 | ROCE computed=13.52 vs imported=13.52
+- BAJAJFINSV | Bajaj Finserv Ltd | Financials | ROE computed=20.39 vs imported=20.39 | ROCE computed=12.52 vs imported=12.52
+- BAJAJFINSV | Bajaj Finserv Ltd | Financials | ROE computed=22.64 vs imported=22.64 | ROCE computed=12.18 vs imported=12.18
+- BAJAJFINSV | Bajaj Finserv Ltd | Financials | ROE computed=19.15 vs imported=19.15 | ROCE computed=11.52 vs imported=11.52
