@@ -10,3 +10,18 @@ __pycache__/
 logs/
 
 .DS_Store
+# Virtual environment
+venv/
+
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Generated outputs
+output/
+reports/radar_charts/
+
+# OS
+.DS_Store
+Thumbs.db

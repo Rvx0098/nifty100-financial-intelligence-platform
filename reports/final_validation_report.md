@@ -1,36 +1,55 @@
 # Final Validation Report
 
-## Sprint Status
-- Sprint 1: Complete
-- Sprint 2: Complete
-- Remaining work: None for Sprint 2 population workflow
+## Architecture
+- End-to-end financial analytics pipeline built around SQLite, Pandas, and reporting modules.
+- Screener and peer comparison engines feed workbook exports and markdown reports.
 
-## Database Row Count
-- `financial_ratios` row count: 1263
+## Modules
+- Screener engine and preset filters
+- Composite scoring and peer percentile calculations
+- Excel and markdown report generation
 
-## Financial Ratios Populated
-- Profitability ratios: `net_profit_margin_pct`, `operating_margin_pct`, `return_on_equity_pct`, `return_on_assets_pct`, `return_on_capital_employed_pct`
-- Leverage metrics: `debt_to_equity`, `interest_coverage`, `asset_turnover`, `net_debt`
-- Cash flow metrics: `free_cash_flow`, `fcf_conversion`, `capex_intensity`, `cfo_quality_score`, `composite_quality_score`
-- CAGR metrics: `revenue_cagr_3yr`, `revenue_cagr_5yr`, `revenue_cagr_10yr`, `pat_cagr_3yr`, `pat_cagr_5yr`, `pat_cagr_10yr`, `eps_cagr_3yr`, `eps_cagr_5yr`, `eps_cagr_10yr`
+## Files Generated
+- output/screener_output.xlsx
+- output/peer_comparison.xlsx
+- reports/final_validation_report.md
+- reports/performance_summary.md
+- reports/sprint3_summary.md
+- reports/architecture.md
+- reports/deployment.md
 
-## Reports Generated
-- `reports/database_population_report.md`
-- `reports/ratio_edge_cases.log`
-- Existing sprint reports remain available in `reports/`
+## SQLite Tables
+- financial_ratios
+- peer_percentiles
+- companies
 
-## Unit Test Results
-- Total tests run: 36
-- Passed: 36
-- Failed: 0
+## KPIs
+- ROE
+- ROCE
+- Revenue CAGR
+- PAT CAGR
+- Free Cash Flow
+- Debt To Equity
+- Interest Coverage
+- Asset Turnover
 
-## Edge Case Summary
-- Financial-sector carve-out report generated for banks, NBFCs, and insurers.
-- Financial sector records analyzed: 329
-- ROE/ROCE comparison rows: 294
-- Top differences are documented in `reports/ratio_edge_cases.log`.
+## Companies
+- 100 companies analyzed
+
+## Peer Groups
+- Peer-group percentile analysis generated for exported peer comparison sheets
+
+## Radar Charts
+- Radar chart generation remains available via the visualization module
+
+## Test Results
+- pytest suite executed as part of the Sprint 3 validation workflow
+
+## Execution Time
+- 1.35s
 
 ## Known Limitations
-- Source tables in SQLite may contain duplicate rows by `company_id` and `year`; the population workflow deduplicates on load and keeps the first occurrence.
-- CAGR values for unmatched horizons are null by design when historical data is not available.
-- `TTM` rows are excluded from numeric year extraction and CAGR calculations.
+- Excel styling is applied generically across numeric cells and may need refinement for larger datasets
+
+## Future Improvements
+- Add richer workbook themes and dashboard-level exports
