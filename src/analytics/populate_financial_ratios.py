@@ -174,11 +174,72 @@ def build_population_frame(df: pd.DataFrame) -> pd.DataFrame:
     result_df["cfo_quality_score"] = result_df.apply(
         lambda row: calculate_cfo_quality_score(row.get("operating_activity", 0), row.get("net_profit", 0), row.get("investing_activity", 0)), axis=1
     )
-    result_df["composite_quality_score"] = (
-        result_df[["net_profit_margin_pct", "return_on_equity_pct", "cfo_quality_score"]].mean(axis=1)
-    )
-    return result_df
+       # ---------------------------------------------------------
+    # Composite Quality Score (0-100)
+    # ---------------------------------------------------------
 
+    def percentile_rank(series: pd.Series, ascending: bool = True) -> pd.Series:
+        numeric = pd.to_numeric(series, errors="coerce")
+
+        if ascending:
+            return numeric.rank(method="average", pct=True) * 100
+
+        return (1 - numeric.rank(method="average", pct=True)) * 100
+
+    result_df["roe_rank"] = percentile_rank(
+        result_df["return_on_equity_pct"]
+    )
+
+    result_df["roce_rank"] = percentile_rank(
+        result_df["return_on_capital_employed_pct"]
+    )
+
+    result_df["roa_rank"] = percentile_rank(
+        result_df["return_on_assets_pct"]
+    )
+
+    result_df["npm_rank"] = percentile_rank(
+        result_df["net_profit_margin_pct"]
+    )
+
+    result_df["cfo_rank"] = percentile_rank(
+        result_df["cfo_quality_score"]
+    )
+
+    result_df["asset_turnover_rank"] = percentile_rank(
+        result_df["asset_turnover"]
+    )
+
+    result_df["interest_coverage_rank"] = percentile_rank(
+        result_df["interest_coverage"]
+    )
+
+    # Lower Debt-to-Equity is better
+    result_df["debt_rank"] = percentile_rank(
+        result_df["debt_to_equity"],
+        ascending=False,
+    )
+
+   
+
+    result_df["composite_quality_score"] = (
+    result_df[
+        [
+            "roe_rank",
+            "roce_rank",
+            "roa_rank",
+            "npm_rank",
+            "cfo_rank",
+            "asset_turnover_rank",
+            "interest_coverage_rank",
+            "debt_rank",
+        ]
+    ]
+    .mean(axis=1)
+    .round(2)
+)
+
+    return result_df
 
 def write_population_table(population_df: pd.DataFrame, db_path: Path) -> int:
     """Write the computed ratios into the financial_ratios table and return the row count."""
